@@ -16,7 +16,11 @@
 
 [JU Training](https://www.youtube.com/@acmju/playlists), codeforces groups: [JU level 0](https://codeforces.com/group/6T8OBL1uUW), [JU & JPC level 0](https://codeforces.com/group/OQSClAEYis), [JU level 1](https://codeforces.com/group/eFbHZGBJQR), [JU & JPC level 1](https://codeforces.com/group/UCvnPPDQxL), [JCPC Training 2017 - Level 1](https://codeforces.com/group/abwn7HbDuu|)
 
-[more codeforces groups](https://codeforces.com/groups/with/Om4r37), [Previous Arab Region ACM contests](https://codeforces.com/gyms?filterContestType=Official+ACM-ICPC+Contest&filterContestFormat=ICPC&filterIcpcRegion=Arab+Region&order=ID_DESC), [ICPC World Finals Past Problems](https://icpc.global/worldfinals/past-problems), [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix), [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
+[Completed Training From Zero](https://codeforces.com/group/isP4JMZTix)
+
+[Open Contest Series](https://codeforces.com/group/T99c3atS1n)
+
+[more codeforces groups](https://codeforces.com/groups/with/Om4r37), [Previous Arab Region ACM contests](https://codeforces.com/gyms?filterContestType=Official+ACM-ICPC+Contest&filterContestFormat=ICPC&filterIcpcRegion=Arab+Region&order=ID_DESC), [ICPC World Finals Past Problems](https://icpc.global/worldfinals/past-problems), [JOI3](https://web.facebook.com/JordanianOI/posts/pfbid02ACzBEgN3oRqkzvrRjorgRSEHW7uWfvqz9CF3A7dBPrvwvLnkuvEMTQHWfJebTtuFl)
 
 other resources: [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), [Algorithms for Competitive Programming](https://cp-algorithms.com), [USACO Guide](https://usaco.guide), [Coding Interview University](https://github.com/jwasham/coding-interview-university), [Tech Interview Handbook](https://www.techinterviewhandbook.org), [NeetCode](https://neetcode.io), [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide), [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep), [Errichto Algorithms](https://github.com/Errichto/youtube/wiki), [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide), [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
