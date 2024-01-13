@@ -72,6 +72,27 @@
 			"}"
 		]
 	},
+	"convert any base to decimal": {
+		"prefix": "toDecimal",
+		"body": [
+		  "int toDecimal(string n, int b){",
+		  "    int s = 0, p = n.size();",
+		  "    for (char i: n) s += (i - (47 < i && i < 58? 48: 55)) * pow(b, --p);",
+		  "    return s;",
+		  "}"
+		]
+	},
+	"convert decimal to any base": {
+		"prefix": "2base",
+		"body": [
+		  "string decimal2Base(int n, int b){",
+		  "    string r = \"\";",
+		  "    int m;",
+		  "    while(n) m = n % b, n /= b, r = char(m + (m > 9? 55: 48)) + r;",
+		  "    return r;",
+		  "}"
+		]
+	},
 	"return nth fibonacci number starting from index 1" : {
 		"prefix": "fib1", // F1 = 0, F2 = 1
 		"body": [
