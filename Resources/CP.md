@@ -86,3 +86,24 @@ other tools:
 [cf-fast-submit](https://github.com/LumaKernel/cf-fast-submit), 
 [AtCoder Problems](https://kenkoooo.com/atcoder), 
 [cf-tool](https://github.com/xalanq/cf-tool)
+
+popular Discord servers: 
+[USACO (Unofficial)](https://discord.gg/bessMBe) ([resources](https://gist.github.com/3m4r5/15ae4c6573b5cac46dd5b5396b9a9587)), 
+[Priyansh31dec Server](https://discord.gg/x6C4thVRfQ), 
+[A Code Daily!](https://discord.com/invite/H8TeFjvq6z), 
+[AC](https://discord.gg/2CJ6qvY), 
+[TLE Community](https://discord.com/invite/zNnwMKEbJG), 
+[Competitive Programming Initiative](https://discord.gg/6n55UAARJM), 
+[TeamsCode](https://discord.com/invite/8pg89SS), 
+[Errichto Server Official](https://discord.gg/errichto), 
+[tmw's CP club](https://discord.gg/AneA5wg), 
+[Competitive Programming Community](https://discord.gg/algorithms), 
+[International Coding Hub](https://discord.gg/9qQe2Nh), 
+[NeetCode](https://discord.gg/Qan2WGTcEr)
+
+Arabic Discord servers: 
+[Juniors Sheet](https://discord.gg/QapCtr58J7), 
+[Jordan Training Contests](https://discord.gg/FVq3uNwzvh), 
+[JUST Programming Chapter](https://discord.gg/bpAZs5v5MJ), 
+[ACM JU & JPC 2023 Problem Solving Training](https://discord.gg/JkaRaSvNUQ), 
+[Coding Club](https://discord.gg/kGRFEWJes7)
