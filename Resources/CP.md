@@ -1,19 +1,87 @@
 [codeforces catalog](https://codeforces.com/catalog)
 
-[Assiut Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg), [Playlist](https://youtube.com/playlist?list=PLq8huKQsVgUMyLW7Q1OVErEclujWPGPsj&si=DzWtpqdCxlTM_9OA) &nbsp; [mostafa saad Sheet](https://codeforces.com/blog/entry/97858) &nbsp; [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home) &nbsp; [IEEEXtreme Training 2021](https://youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_)
+[Assiut Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg), 
+[Playlist](https://youtube.com/playlist?list=PLq8huKQsVgUMyLW7Q1OVErEclujWPGPsj&si=DzWtpqdCxlTM_9OA) &nbsp; 
+[mostafa saad Sheet](https://codeforces.com/blog/entry/97858) &nbsp;
+[Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home) &nbsp; 
+[IEEEXtreme Training 2021](https://youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_)
 
-[JordanCP](https://jordan-cp.com) &nbsp; [SolverToBe](https://solvertobe.com) &nbsp; [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix) &nbsp; [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
+[JordanCP](https://jordan-cp.com) &nbsp; 
+[SolverToBe](https://solvertobe.com) &nbsp; 
+[Completed Training From Zero](https://codeforces.com/group/isP4JMZTix) &nbsp; 
+[Open Contest Series](https://codeforces.com/group/T99c3atS1n)
 
-[BAU Training](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN), [BAU codeforces group](https://codeforces.com/group/tlobvwTh19), [coding club codeforces group](https://codeforces.com/group/cRILaLqEsX)
+[BAU Training](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN), 
+[BAU codeforces group](https://codeforces.com/group/tlobvwTh19), 
+[coding club codeforces group](https://codeforces.com/group/cRILaLqEsX)
 
-[JU Training](https://www.youtube.com/@acmju/playlists), codeforces groups: [JU level 0](https://codeforces.com/group/6T8OBL1uUW), [JU & JPC level 0](https://codeforces.com/group/OQSClAEYis), [JU level 1](https://codeforces.com/group/eFbHZGBJQR), [JU & JPC level 1](https://codeforces.com/group/UCvnPPDQxL), [JCPC Training 2017 - Level 1](https://codeforces.com/group/abwn7HbDuu|)
+[JU Training](https://www.youtube.com/@acmju/playlists), 
+codeforces groups: 
+[JU level 0](https://codeforces.com/group/6T8OBL1uUW), 
+[JU & JPC level 0](https://codeforces.com/group/OQSClAEYis), 
+[JU level 1](https://codeforces.com/group/eFbHZGBJQR), 
+[JU & JPC level 1](https://codeforces.com/group/UCvnPPDQxL), 
+[JCPC Training 2017 - Level 1](https://codeforces.com/group/abwn7HbDuu|)
 
-[more codeforces groups](https://codeforces.com/groups/with/Om4r37) &nbsp; [Previous Arab Region ACM contests](https://codeforces.com/gyms?filterContestType=Official+ACM-ICPC+Contest&filterContestFormat=ICPC&filterIcpcRegion=Arab+Region&order=ID_DESC) &nbsp; [ICPC World Finals Past Problems](https://icpc.global/worldfinals/past-problems) &nbsp; [JOI3](https://web.facebook.com/JordanianOI/posts/pfbid02ACzBEgN3oRqkzvrRjorgRSEHW7uWfvqz9CF3A7dBPrvwvLnkuvEMTQHWfJebTtuFl)
+[more codeforces groups](https://codeforces.com/groups/with/Om4r37) &nbsp; 
+[Previous Arab Region ACM contests](https://codeforces.com/gyms?filterContestType=Official+ACM-ICPC+Contest&filterContestFormat=ICPC&filterIcpcRegion=Arab+Region&order=ID_DESC) &nbsp; 
+[ICPC World Finals Past Problems](https://icpc.global/worldfinals/past-problems) &nbsp; 
+[JOI3](https://web.facebook.com/JordanianOI/posts/pfbid02ACzBEgN3oRqkzvrRjorgRSEHW7uWfvqz9CF3A7dBPrvwvLnkuvEMTQHWfJebTtuFl)
 
-other resources: [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), [Algorithms for Competitive Programming](https://cp-algorithms.com), [USACO Guide](https://usaco.guide), [Coding Interview University](https://github.com/jwasham/coding-interview-university), [Tech Interview Handbook](https://www.techinterviewhandbook.org), [NeetCode](https://neetcode.io), [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide), [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep), [Errichto Algorithms](https://github.com/Errichto/youtube/wiki), [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide), [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+other resources: 
+[Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), 
+[Algorithms for Competitive Programming](https://cp-algorithms.com), 
+[USACO Guide](https://usaco.guide), 
+[Coding Interview University](https://github.com/jwasham/coding-interview-university), 
+[Tech Interview Handbook](https://www.techinterviewhandbook.org), 
+[NeetCode](https://neetcode.io), 
+[PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide), 
+[Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep), 
+[Errichto Algorithms](https://github.com/Errichto/youtube/wiki), 
+[Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide), 
+[Awesome Algorithms](https://github.com/tayllan/awesome-algorithms), 
+[Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 
-other online judges: [Virtual Judge](https://vjudge.net), [thabit](https://thabit.io), [CS Academy](https://csacademy.com), [LogicRush](https://logicrush.com), [hackerearth](https://www.hackerearth.com), [codewars](https://www.codewars.com), [edabit](https://edabit.com), [Project Euler](https://www.freecodecamp.org/learn/project-euler), [CodeDrills](https://codedrills.io/problems)
+other online judges: 
+[Virtual Judge](https://vjudge.net), 
+[thabit](https://thabit.io), 
+[CS Academy](https://csacademy.com), 
+[LogicRush](https://logicrush.com), 
+[hackerearth](https://www.hackerearth.com), 
+[codewars](https://www.codewars.com), 
+[edabit](https://edabit.com), 
+[Project Euler](https://www.freecodecamp.org/learn/project-euler), 
+[CodeDrills](https://codedrills.io/problems), 
+[USACO](https://train.usaco.org/)
 
-My Setup For CP: [VS Code](https://code.visualstudio.com), [C++ for VS Code](https://code.visualstudio.com/docs/languages/cpp), [debug C++ in VS Code](https://code.visualstudio.com/docs/cpp/introvideos-cpp#_debug-a-c-project), [VS Code extension for automatic testing](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper), [browser extension for importing test cases](https://github.com/jmerle/competitive-companion), [other VS Code extensions I use](https://github.com/3m4r5/3m4r5/blob/main/Resources/vsce.md), [My Code Snippets](https://github.com/3m4r5/3m4r5/blob/main/Resources/cpp.json)
+My Setup For CP: 
+[VS Code](https://code.visualstudio.com), 
+[C++ for VS Code](https://code.visualstudio.com/docs/languages/cpp), 
+[debug C++ in VS Code](https://code.visualstudio.com/docs/cpp/introvideos-cpp#_debug-a-c-project), 
+[VS Code extension for automatic testing](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper), 
+[browser extension for importing test cases](https://github.com/jmerle/competitive-companion), 
+[other VS Code extensions I use](https://github.com/3m4r5/3m4r5/blob/main/Resources/vsce.md), 
+[My Code Snippets](https://github.com/3m4r5/3m4r5/blob/main/Resources/cpp.json)
 
-other tools: [snippet generator](https://snippet-generator.app/), [CLIST](https://clist.by), [StopStalk](https://www.stopstalk.com), [Gravy](https://gravy.thud.dev), [Codehunt](https://codehunt.cc), [Dynamic A2OJ](https://a2oj.herokuapp.com), [Static A2OJ](https://a2oj.netlify.app), [A2OJ Ladders](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html), [Codeforces Ladders](https://codeforcesladders.firebaseapp.com), [ACDLadders](https://acodedaily.com/), [Codeforces Visualizer](https://cfviz.netlify.app), [CF Analytics](https://github.com/ApoorvaRajBhadani/cf-analytics), [Tasks Finder Bot](https://t.me/TasksFinderBot), [CF-Predictor](https://codeforces.com/blog/entry/50411), [Carrot](https://github.com/meooow25/carrot), [Leetcode predictor](https://lccn.lbao.site/), [ac-predictor](https://greasyfork.org/en/scripts/369954-ac-predictor/code), [cf-fast-submit](https://github.com/LumaKernel/cf-fast-submit), [AtCoder Problems](https://kenkoooo.com/atcoder), [cf-tool](https://github.com/xalanq/cf-tool)
+other tools: 
+[snippet generator](https://snippet-generator.app/), 
+[CLIST](https://clist.by), 
+[StopStalk](https://www.stopstalk.com), 
+[Gravy](https://gravy.thud.dev), 
+[Codehunt](https://codehunt.cc), 
+[Dynamic A2OJ](https://a2oj.herokuapp.com), 
+[Static A2OJ](https://a2oj.netlify.app), 
+[A2OJ Ladders](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html), 
+[Codeforces Ladders](https://codeforcesladders.firebaseapp.com), 
+[ACDLadders](https://acodedaily.com/), 
+[CP-31](https://www.tle-eliminators.com/cp-sheet), 
+[Codeforces Visualizer](https://cfviz.netlify.app), 
+[CF Analytics](https://github.com/ApoorvaRajBhadani/cf-analytics), 
+[Tasks Finder Bot](https://t.me/TasksFinderBot), 
+[CF-Predictor](https://codeforces.com/blog/entry/50411), 
+[Carrot](https://github.com/meooow25/carrot), 
+[Leetcode predictor](https://lccn.lbao.site/), 
+[ac-predictor](https://greasyfork.org/en/scripts/369954-ac-predictor/code), 
+[cf-fast-submit](https://github.com/LumaKernel/cf-fast-submit), 
+[AtCoder Problems](https://kenkoooo.com/atcoder), 
+[cf-tool](https://github.com/xalanq/cf-tool)
