@@ -28,7 +28,7 @@ codeforces groups:
 [ICPC World Finals Past Problems](https://icpc.global/worldfinals/past-problems) &nbsp; 
 [JOI3](https://web.facebook.com/JordanianOI/posts/pfbid02ACzBEgN3oRqkzvrRjorgRSEHW7uWfvqz9CF3A7dBPrvwvLnkuvEMTQHWfJebTtuFl)
 
-other resources: 
+more resources: 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), 
 [Algorithms for Competitive Programming](https://cp-algorithms.com), 
 [USACO Guide](https://usaco.guide), 
@@ -64,7 +64,7 @@ My Setup For CP:
 [other VS Code extensions I use](https://github.com/3m4r5/3m4r5/blob/main/Resources/vsce.md), 
 [My Code Snippets](https://github.com/3m4r5/3m4r5/blob/main/Resources/cpp.json)
 
-other tools: 
+CP tools: 
 [snippet generator](https://snippet-generator.app/), 
 [CLIST](https://clist.by), 
 [StopStalk](https://www.stopstalk.com), 
