@@ -1,7 +1,7 @@
 [codeforces catalog](https://codeforces.com/catalog)
 
 [Assiut Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg), 
-[Playlist](https://youtube.com/playlist?list=PLq8huKQsVgUMyLW7Q1OVErEclujWPGPsj&si=DzWtpqdCxlTM_9OA) &nbsp; 
+[Playlist](https://youtube.com/playlist?list=PLq8huKQsVgUMyLW7Q1OVErEclujWPGPsj) &nbsp; 
 [mostafa saad Sheet](https://codeforces.com/blog/entry/97858) &nbsp;
 [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home) &nbsp; 
 [IEEEXtreme Training 2021](https://youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_)
