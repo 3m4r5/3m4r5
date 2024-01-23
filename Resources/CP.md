@@ -36,6 +36,7 @@
     - [Project Euler](https://www.freecodecamp.org/learn/project-euler)
     - [CodeDrills](https://codedrills.io/problems)
     - [USACO](https://train.usaco.org/)
+    - [GeeksforGeeks](https://www.geeksforgeeks.org/explore)
 </details><details><summary>Tutorials with Arabic video explanations</summary>
 
 - [mostafa saad Sheet](https://codeforces.com/blog/entry/97858),
