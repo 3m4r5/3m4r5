@@ -14,7 +14,7 @@
 [Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)\
 [TeamsCode](https://www.teamscode.org/)\
 [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide)</details><details><summary>Tutorials with Arabic video explanations</summary>
-[mostafa saad Sheet](https://codeforces.com/blog/entry/97858), [Playlist](https://www.youtube.com/playlist?list=PLq8huKQsVgUPiCMSySRM14ysT_tgexD5z)
+[mostafa saad Sheet](https://codeforces.com/blog/entry/97858), [Playlist](https://www.youtube.com/playlist?list=PLq8huKQsVgUPiCMSySRM14ysT_tgexD5z)\
 [JordanCP](https://jordan-cp.com)\
 [SolverToBe](https://solvertobe.com)\
 [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix)<details><summary>Universities Trainings</summary><details><summary>Assiut</summary>
