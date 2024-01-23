@@ -1,3 +1,8 @@
+### Resources for Competitive Programming & Problem Solving
+> [!TIP]
+> Don't waste time going through every resource available online.\
+> Just keep solving problems that are harder than what you already solved or problems with new ideas.
+
 <details><summary>Resources</summary>
 
 - [Codeforces catalog](https://codeforces.com/catalog)
