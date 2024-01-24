@@ -2,7 +2,6 @@
 > [!TIP]
 > Don't waste time going through every resource available online.\
 > Just keep solving problems that are harder than what you already solved or problems with novel concepts.
-
 <details><summary>Resources</summary>
 
 - [Codeforces catalog](https://codeforces.com/catalog)
@@ -46,12 +45,10 @@
 - [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix)
 - Universities Trainings:
     - [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home)
-    - IEEEXtreme Training:
-    [2020](https://www.youtube.com/playlist?list=PL1SVyy_SXUBafE_M5_YGLs83DnINXFVzz),
+    - IEEEXtreme Training: [2020](https://www.youtube.com/playlist?list=PL1SVyy_SXUBafE_M5_YGLs83DnINXFVzz),
     [2021](https://www.youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_),
     [2022](https://www.youtube.com/playlist?list=PL1SVyy_SXUBacYOVsmGLj8M1krENeXF_1)
-    - JU:
-    [level 0](https://codeforces.com/group/OQSClAEYis),
+    - JU: [level 0](https://codeforces.com/group/OQSClAEYis),
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmaDh8o_raH8_1T7rDOekxai),
     [level 1](https://codeforces.com/group/UCvnPPDQxL),
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmY5s1ATVRzP3g3rPzirxRUm),
@@ -59,26 +56,22 @@
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmYsWYNqAeNoI_91wF8pW0xN),
     [level 3](https://codeforces.com/group/GMGjdU9W0I),
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmaYLzrGQjjGUOVBT2Rv9N55)
-    - BAU:
-    [Playlist](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN),
+    - BAU: [Playlist](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN),
     [BAU Codeforces group](https://codeforces.com/group/tlobvwTh19),
     [coding club Codeforces group](https://codeforces.com/group/cRILaLqEsX)
     - Assiut:
-        - newcomers:
-        [Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg),
+        - newcomers: [Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg),
         [Codeforces group](https://codeforces.com/group/MWSDmqGsZm),
         [Playlist](https://youtube.com/playlist?list=PLq8huKQsVgUMyLW7Q1OVErEclujWPGPsj),
         [C++ Solutions](https://github.com/MinaFaried3/Assiut-University-Training---Newcomers),
         [OtherLanguages](https://github.com/ahmedbadawihosny/Programming-And-Problem-Solving/tree/main/Problem%20Solving/CodeForces/ICPC%20Assiut%20University%20Training%20Sheet/Newcomers)
-        - Juniors Phase 1:
-        [Plan](https://www.aun.edu.eg/fci/sites/default/files/units/11.pdf),
+        - Juniors Phase 1: [Plan](https://www.aun.edu.eg/fci/sites/default/files/units/11.pdf),
         [Codeforces group](https://codeforces.com/group/3nQaj5GMG5),
         [Playlist1](https://www.youtube.com/playlist?list=PLj1uh4JbO1ow2RsObCH_BAsQnDypBG242),
         [Playlist2](https://www.youtube.com/playlist?list=PL4l5yt6NJ9wsrflRAyuifyjtCVAi1-SuW),
         [Solutions1](https://github.com/AbdelattyBadwy16/ICPC-Assiut-University-Training---Juniors-Phase-1-Sheets),
         [Solutions2](https://github.com/omarhashy99/ICPC-Assiut-University-Training-Juniors-Phase-1-Sheets)
-        - Juniors Phase 2:
-        [2020](https://vjudge.net/group/icpcassiutjunuiorsphase2),
+        - Juniors Phase 2: [2020](https://vjudge.net/group/icpcassiutjunuiorsphase2),
         [2022](https://vjudge.net/group/junuiorsphase2_22)
 </details><details><summary>Tools & Software</summary>
 
