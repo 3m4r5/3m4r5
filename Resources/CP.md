@@ -27,9 +27,7 @@
 - Other Online Judges:
     - [Virtual Judge](https://vjudge.net)
     - [thabit](https://thabit.io)
-    - [CS Academy](https://csacademy.com)
     - [LogicRush](https://logicrush.com)
-    - [hackerearth](https://www.hackerearth.com)
     - [codewars](https://www.codewars.com)
     - [edabit](https://edabit.com)
     - [Project Euler](https://www.freecodecamp.org/learn/project-euler)
