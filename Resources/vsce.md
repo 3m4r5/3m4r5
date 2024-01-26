@@ -3,4 +3,4 @@
 [Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete)\
 [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)\
 [Cursor column highlight](https://marketplace.visualstudio.com/items?itemName=IuriiBarlukov.cursor-column-highlight)\
-[Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces)
+[Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
