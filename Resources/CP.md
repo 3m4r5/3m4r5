@@ -24,6 +24,7 @@
     - [Shaazzz](https://codeforces.com/group/W2YvE0cOoh)
     - [CSOC 2021](https://codeforces.com/group/t1mC3K67lU/contests)
     - [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
+    - [All Public Groups](https://codeforces.com/groups/page/1)
 - Other Online Judges:
     - [Virtual Judge](https://vjudge.net)
     - [thabit](https://thabit.io)
