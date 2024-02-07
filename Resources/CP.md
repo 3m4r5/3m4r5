@@ -106,12 +106,14 @@
     - [Codeforces Visualizer](https://cfviz.netlify.app)
     - [CF Analytics](https://github.com/ApoorvaRajBhadani/cf-analytics)
     - [Tasks Finder Bot](https://t.me/TasksFinderBot)
-    - [cf-fast-submit](https://github.com/LumaKernel/cf-fast-submit)
+    - [cf-fast-submit](https://codeforces.com/blog/entry/66646)
     - [cf-tool](https://github.com/xalanq/cf-tool)
 - Other Tools:
     - [CLIST](https://clist.by)
     - [StopStalk](https://www.stopstalk.com)
     - [Gravy](https://gravy.thud.dev)
+    - [Graph Editor](https://csacademy.com/app/graph_editor)
+    - [Interval Visualiser](https://intervals-visualiser.vercel.app/)
 </details><details><summary>Communities</summary>
 
 - Discord
