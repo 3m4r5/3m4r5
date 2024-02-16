@@ -19,11 +19,22 @@
 		"prefix": "gcc",
 		"body": ["#pragma GCC optimize(\"O1,O2,O3,Ofast,unroll-loops,fast-math\")"]
 	},
+	"range" : {
+		"prefix": "iota",
+		"body": ["#define range ranges::views::iota"]
+	},
 	"redirect cin, cout to fileio instead of stdio" : {
 		"prefix": "fileio",
 		"body": [
 			"ifstream cin(\"input.txt\"); std::cin.rdbuf(cin.rdbuf());",
 			"ofstream cout(\"output.txt\"); std::cout.rdbuf(cout.rdbuf());"
+		]
+	},
+	"get the maximim subarray sum" : {
+		"prefix": "max_subarray_sum",
+		"body": [
+			"int mx = INT_MIN, c = 0;",
+			"for (int i = 0; i < n; i++) c += a[i], c = (c < 0? 0: c), mx = (mx < c? c: mx);"
 		]
 	},
 	"return the triangle of a number" : {
