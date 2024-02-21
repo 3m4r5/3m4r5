@@ -90,7 +90,6 @@
         - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 - Online Ladders:
     - [Codehunt](https://codehunt.cc)
-    - [Dynamic A2OJ](https://a2oj.herokuapp.com)
     - [Static A2OJ](https://a2oj.netlify.app)
     - [A2OJ Ladders](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
     - [Codeforces Ladders](https://codeforcesladders.firebaseapp.com)
