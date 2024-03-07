@@ -19,6 +19,7 @@
 - [TeamsCode](https://www.teamscode.org/)
 - [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide)
 - Codeforces groups:
+    - [New Comers Summer Camp ACM assiut](https://codeforces.com/group/3jD9SzY31n)
     - [JPC | Atypical | Newcomers 2024](https://codeforces.com/group/ZIN4PlsExe)
     - [100 Easy Problems (Bootcamp)](https://codeforces.com/group/yg7WhsFsAp)
     - [Shaazzz](https://codeforces.com/group/W2YvE0cOoh)
@@ -75,7 +76,7 @@
 </details><details><summary>Tools & Software</summary>
 
 - My Setup:
-    - [VS Code](https://code.visualstudio.com)
+    - [VS Code](https://code.visualstudio.com) or [VSCodium](https://vscodium.com/)
     - [C++ for VS Code](https://code.visualstudio.com/docs/languages/cpp)
     - [debug C++ in VS Code](https://code.visualstudio.com/docs/cpp/introvideos-cpp#_debug-a-c-project)
     - [VS Code extension for automatic testing](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
