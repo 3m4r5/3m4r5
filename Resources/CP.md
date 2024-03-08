@@ -8,6 +8,7 @@
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com)
 - [USACO Guide](https://usaco.guide)
+- [Colin Galen's Roadmap](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org)
 - [NeetCode](https://neetcode.io)
