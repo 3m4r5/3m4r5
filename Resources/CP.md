@@ -57,9 +57,11 @@
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmYsWYNqAeNoI_91wF8pW0xN),
     [level 3](https://codeforces.com/group/GMGjdU9W0I),
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmaYLzrGQjjGUOVBT2Rv9N55)
-    - BAU: [Playlist](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN),
+    - BAU:
+        - 2023: [Playlist](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN),
     [BAU Codeforces group](https://codeforces.com/group/tlobvwTh19),
     [coding club Codeforces group](https://codeforces.com/group/cRILaLqEsX)
+        - 2024: [Playlist](https://www.youtube.com/playlist?list=PL9L87DeTP7kbjP8NmZrHHUhRQTmxx2Ju-), [Codeforces group](https://codeforces.com/group/ms9brvgtN5)
     - Assiut:
         - newcomers: [Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg),
         [Codeforces group](https://codeforces.com/group/MWSDmqGsZm),
