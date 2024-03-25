@@ -28,6 +28,9 @@
     - [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
     - [All Public Groups](https://codeforces.com/groups/page/1)
 - Other Online Judges:
+    - [LeetCode](https://leetcode.com/)
+    - [CS Academy](https://csacademy.com)
+    - [hackerearth](https://www.hackerearth.com)
     - [thabit](https://thabit.io)
     - [LogicRush](https://logicrush.com)
     - [codewars](https://www.codewars.com)
