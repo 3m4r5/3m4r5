@@ -174,8 +174,8 @@
 </details><details><summary>Communities</summary>
 
 - Reddit
-    - [https://www.reddit.com/r/leetcode/](r/leetcode)
-    - [https://www.reddit.com/r/programmingcontests/](r/programmingcontests)
+    - [r/leetcode/](https://www.reddit.com/r/leetcode)
+    - [r/programmingcontests/](https://www.reddit.com/r/programmingcontests)
 - Discord
     - Popular servers
         - [USACO (Unofficial)](https://discord.gg/bessMBe)
