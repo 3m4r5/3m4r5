@@ -293,6 +293,7 @@
             </li>
         </ul>
     </details>
+
 <details><summary>Tutorials with Arabic video explanations</summary>
 
 - [mostafa saad Sheet](https://codeforces.com/blog/entry/97858),
