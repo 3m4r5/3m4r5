@@ -143,7 +143,6 @@
     - other VS Code extensions I use:
 [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme),
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker),
-[Hungry Delete](https://marketplace.visualstudio.com/items?itemName=jasonlhy.hungry-delete),
 [Cursor column highlight](https://marketplace.visualstudio.com/items?itemName=IuriiBarlukov.cursor-column-highlight)
 - Online Ladders:
     - [Codehunt](https://codehunt.cc)
