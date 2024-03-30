@@ -1,3 +1,4 @@
 {
+    "editor.renderWhitespace": "all",
     "debug.inlineValues": "on",
 }
