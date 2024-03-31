@@ -162,6 +162,7 @@
     - [CF Analytics](https://github.com/ApoorvaRajBhadani/cf-analytics)
     - [Tasks Finder Bot](https://t.me/TasksFinderBot)
     - [cf-fast-submit](https://codeforces.com/blog/entry/66646)
+    - [CF Linemaster](https://greasyfork.org/en/scripts/403747-cf-linemaster)
     - [cf-tool](https://github.com/xalanq/cf-tool)
 - Other Tools:
     - [CLIST](https://clist.by)
