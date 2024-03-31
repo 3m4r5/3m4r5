@@ -77,9 +77,9 @@
 		"prefix": "fact",
 		"body": [
 			"unsigned long long Factorial(int n){",
-			"   unsigned long long r = 1;",
-			"   for (int i = 2; i <= n; i++) r *= i;",
-			"   return r;",
+			"    unsigned long long r = 1;",
+			"    for (int i = 2; i <= n; i++) r *= i;",
+			"    return r;",
 			"}"
 		]
 	},
@@ -173,12 +173,12 @@
 		"prefix": "NCR",
 		"body": [
 			"unsigned ncr(unsigned n, unsigned k){",
-			"   if (k > n) return 0;",
-			"   if (k * 2 > n) k = n - k;",
-			"   if (k == 0) return 1;",
-			"   int r = n;",
-			"   for (int i = 2; i <= k; i++) r *= (n - i + 1), r /= i;",
-			"   return r;",
+			"    if (k > n) return 0;",
+			"    if (k * 2 > n) k = n - k;",
+			"    if (k == 0) return 1;",
+			"    int r = n;",
+			"    for (int i = 2; i <= k; i++) r *= (n - i + 1), r /= i;",
+			"    return r;",
 			"}"
 		]
 	},
