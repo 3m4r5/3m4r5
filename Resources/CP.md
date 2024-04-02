@@ -19,14 +19,13 @@
 - [Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 - [TeamsCode](https://www.teamscode.org/)
 - [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide)
-- Codeforces groups:
+- [Codeforces groups](https://codeforces.com/groups):
     - [New Comers Summer Camp ACM assiut](https://codeforces.com/group/3jD9SzY31n)
     - [JPC | Atypical | Newcomers 2024](https://codeforces.com/group/ZIN4PlsExe)
     - [100 Easy Problems (Bootcamp)](https://codeforces.com/group/yg7WhsFsAp)
     - [Shaazzz](https://codeforces.com/group/W2YvE0cOoh)
     - [CSOC 2021](https://codeforces.com/group/t1mC3K67lU/contests)
     - [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
-    - [All Public Groups](https://codeforces.com/groups/page/1)
 - Other Online Judges:
     - [LeetCode](https://leetcode.com/)
     - [CS Academy](https://csacademy.com)
