@@ -1,0 +1,16 @@
+{
+    "debug.inlineValues": "on",
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 20,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "cph.general.autoShowJudge": false,
+    "cph.general.defaultLanguage": "cpp",
+    "C_Cpp.default.cppStandard": "gnu++20",
+    "cph.language.cpp.Args": "-std=c++20",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.cursorStyle": "line",
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+}
