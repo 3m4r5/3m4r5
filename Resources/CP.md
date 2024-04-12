@@ -93,7 +93,7 @@
 
 - [mostafa saad Sheet](https://codeforces.com/blog/entry/97858),
 [Playlist](https://www.youtube.com/playlist?list=PLq8huKQsVgUPiCMSySRM14ysT_tgexD5z)
-- [JordanCP](https://jordan-cp.com)
+- [JordanCP](https://github.com/abuaboud/jordan-cp)
 - [SolverToBe](https://solvertobe.com)
 - [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix)
 - Universities Trainings:
