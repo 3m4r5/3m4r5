@@ -34,7 +34,7 @@
     - [LogicRush](https://logicrush.com/)
     - [codewars](https://www.codewars.com/)
     - [edabit](https://edabit.com/)
-    - [Project Euler](https://www.freecodecamp.org/learn/project-euler)
+    - [Project Euler](https://projecteuler.net/)
     - [CodeDrills](https://codedrills.io/problems)
     - [USACO](https://train.usaco.org/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/explore)
