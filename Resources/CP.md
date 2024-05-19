@@ -99,7 +99,8 @@
 - IEEEXtreme Training: [2020](https://www.youtube.com/playlist?list=PL1SVyy_SXUBafE_M5_YGLs83DnINXFVzz),
 [2021](https://www.youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_),
 [2022](https://www.youtube.com/playlist?list=PL1SVyy_SXUBacYOVsmGLj8M1krENeXF_1)
-- [Atypical 2024](https://codeforces.com/group/0PwMI8kUp8), [playlist](https://www.youtube.com/playlist?list=PL3fu-4cinzyQZBwwETMHhRHrIR26Rpxue)
+- [Atypical 2024](https://codeforces.com/group/0PwMI8kUp8),
+[playlist](https://www.youtube.com/playlist?list=PL3fu-4cinzyQZBwwETMHhRHrIR26Rpxue)
 - Universities Trainings:
     - [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home)
     - JU: [level 0](https://codeforces.com/group/OQSClAEYis),
@@ -114,7 +115,8 @@
         - 2023: [Playlist](https://youtube.com/playlist?list=PL9L87DeTP7kbnVAOS2FCVOvuadcOT4ysN),
     [BAU Codeforces group](https://codeforces.com/group/tlobvwTh19),
     [coding club Codeforces group](https://codeforces.com/group/cRILaLqEsX)
-        - 2024: [Playlist](https://www.youtube.com/playlist?list=PL9L87DeTP7kbjP8NmZrHHUhRQTmxx2Ju-), [Codeforces group](https://codeforces.com/group/ms9brvgtN5)
+        - 2024: [Playlist](https://www.youtube.com/playlist?list=PL9L87DeTP7kbjP8NmZrHHUhRQTmxx2Ju-),
+          [Codeforces group](https://codeforces.com/group/ms9brvgtN5)
     - Assiut:
         - newcomers: [Sheet](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg),
         [Codeforces group](https://codeforces.com/group/MWSDmqGsZm),
