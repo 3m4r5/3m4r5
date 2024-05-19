@@ -92,15 +92,16 @@
 </ul></details></details><details><summary>Tutorials with Arabic video explanations</summary>
 
 - [mostafa saad Sheet](https://codeforces.com/blog/entry/97858),
-[Playlist](https://www.youtube.com/playlist?list=PLq8huKQsVgUPiCMSySRM14ysT_tgexD5z)
+[playlist](https://www.youtube.com/playlist?list=PLq8huKQsVgUPiCMSySRM14ysT_tgexD5z)
 - [JordanCP](https://github.com/abuaboud/jordan-cp)
 - [SolverToBe](https://solvertobe.com)
 - [Completed Training From Zero](https://codeforces.com/group/isP4JMZTix)
+- IEEEXtreme Training: [2020](https://www.youtube.com/playlist?list=PL1SVyy_SXUBafE_M5_YGLs83DnINXFVzz),
+[2021](https://www.youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_),
+[2022](https://www.youtube.com/playlist?list=PL1SVyy_SXUBacYOVsmGLj8M1krENeXF_1)
+- [Atypical 2024](https://codeforces.com/group/0PwMI8kUp8), [playlist](https://www.youtube.com/playlist?list=PL3fu-4cinzyQZBwwETMHhRHrIR26Rpxue)
 - Universities Trainings:
     - [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home)
-    - IEEEXtreme Training: [2020](https://www.youtube.com/playlist?list=PL1SVyy_SXUBafE_M5_YGLs83DnINXFVzz),
-    [2021](https://www.youtube.com/playlist?list=PL1SVyy_SXUBZEdJUSwztfARNgzyw6XZv_),
-    [2022](https://www.youtube.com/playlist?list=PL1SVyy_SXUBacYOVsmGLj8M1krENeXF_1)
     - JU: [level 0](https://codeforces.com/group/OQSClAEYis),
     [playlist](https://www.youtube.com/playlist?list=PLqZuMtm5THmaDh8o_raH8_1T7rDOekxai),
     [level 1](https://codeforces.com/group/UCvnPPDQxL),
