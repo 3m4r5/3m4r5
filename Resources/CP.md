@@ -195,6 +195,7 @@
         - [Competitive Programming Community](https://discord.gg/algorithms)
         - [International Coding Hub](https://discord.gg/9qQe2Nh)
         - [NeetCode](https://discord.gg/Qan2WGTcEr)
+        - [Code Weekend](https://discord.gg/M6pG5zp3DF)
     - Arabic Servers
         - [Juniors Sheet](https://discord.gg/QapCtr58J7)
         - [Jordan Training Contests](https://discord.gg/FVq3uNwzvh)
