@@ -13,4 +13,5 @@
     "terminal.integrated.cursorStyle": "line",
     "window.dialogStyle": "custom",
     "window.titleBarStyle": "custom",
+    "explorer.compactFolders": false,
 }
