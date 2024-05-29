@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name        auto bau eval
+// @homepageURL https://github.com/3m4r5/3m4r5/tree/main/scripts/auto_bau_eval
+// @updateURL   https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/auto_bau_eval/auto_bau_eval.js
+// @downloadURL https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/auto_bau_eval/auto_bau_eval.js
 // @namespace   Violentmonkey Scripts
 // @match       *://*bau.edu.jo*/eval*
 // @grant       none
 // @version     1.0
 // @author      3m4r5
-// @description 5/29/2024, 6:30:20 AM
+// @description automatically answers all 19 questions and copies the number into its field.
 // ==/UserScript==
 (async function() {
     const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
