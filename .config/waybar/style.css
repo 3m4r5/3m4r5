@@ -1,6 +1,7 @@
 * {
     font-family: 'Noto Sans Mono', 'Font Awesome 6 Free', 'Font Awesome 6 Brands', monospace;
     font-size: 13px;
+    border-radius: 5px;
 }
 
 window#waybar {
@@ -276,8 +277,7 @@ label:focus {
     background: #72a8d1; /*00b093*/
     color: #ffffff; /*740864*/
     padding: 0 5px;
-    margin: 0 5px;
-    min-width: 16px;
+    min-width: 100px;
 }
 
 #keyboard-state {
