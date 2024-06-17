@@ -16,14 +16,12 @@ window#waybar.hidden {
     opacity: 0.2;
 }
 
-/*
-window#waybar.empty {
+/*window#waybar.empty {
     background-color: transparent;
 }
 window#waybar.solo {
     background-color: #FFFFFF;
-}
-*/
+}*/
 
 window#waybar.termite {
     background-color: #3f3f3f;
@@ -46,11 +44,6 @@ button {
 button:hover {
     background: inherit;
     box-shadow: inset 0 -3px #72a8d1; /*ffffff*/
-}
-
-/* you can set a style on hover for any module like this */
-#pulseaudio:hover {
-    background-color: #5b84a3; /*a37800*/
 }
 
 #workspaces button {
@@ -79,8 +72,8 @@ button:hover {
 
 #clock,
 #battery, #battery.charging, #battery.plugged,
-#cpu,
 #language,
+#cpu,
 #memory,
 #disk,
 #temperature,
@@ -103,6 +96,15 @@ button:hover {
     background-color: #72a8d1;
 }
 
+/* you can set a style on hover for any module like this */
+#tray:hover,
+#clock:hover,
+#pulseaudio:hover,
+#power-profiles-daemon:hover,
+#cpu:hover,
+#memory:hover {
+    background-color: #5b84a3;
+}
 #window,
 #workspaces {
     margin: 0 4px;
