@@ -78,24 +78,29 @@ button:hover {
 }
 
 #clock,
-#battery,
+#battery, #battery.charging, #battery.plugged,
 #cpu,
+#language,
 #memory,
 #disk,
 #temperature,
 #backlight,
 #network,
-#pulseaudio,
+#pulseaudio, #pulseaudio.muted,
 #wireplumber,
 #custom-media,
 #tray,
 #mode,
-#idle_inhibitor,
+#idle_inhibitor, #idle_inhibitor.activated,
 #scratchpad,
-#power-profiles-daemon,
-#mpd {
+#power-profiles-daemon, #power-profiles-daemon.performance, #power-profiles-daemon.balanced, #power-profiles-daemon.power-saver,
+#mpd, #mpd.stopped, #mpd.paused,
+#keyboard-state,
+#wireplumber, #wireplumber.muted,
+#custom-media {
     padding: 0 10px;
     color: #ffffff;
+    background-color: #72a8d1;
 }
 
 #window,
@@ -113,18 +118,9 @@ button:hover {
     margin-right: 0;
 }
 
-#clock {
-    background-color: #72a8d1; /*64727D*/
-}
-
 #battery {
     background-color: #72a8d1/*ffffff*/;
     color: #ffffff; /*000000*/
-}
-
-#battery.charging, #battery.plugged {
-    color: #ffffff;
-    background-color: #72a8d1; /*26A65B*/
 }
 
 @keyframes blink {
@@ -137,7 +133,6 @@ button:hover {
 /* Using steps() instead of linear as a timing function to limit cpu usage */
 #battery.critical:not(.charging) {
     background-color: #f53c3c;
-    color: #ffffff;
     animation-name: blink;
     animation-duration: 0.5s;
     animation-timing-function: steps(12);
@@ -149,93 +144,28 @@ button:hover {
     padding-right: 15px;
 }
 
-#power-profiles-daemon.performance {
-    background-color: #72a8d1; /*f53c3c*/
-    color: #ffffff;
-}
-
-#power-profiles-daemon.balanced {
-    background-color: #72a8d1; /*2980b9*/
-    color: #ffffff;
-}
-
-#power-profiles-daemon.power-saver {
-    background-color: #72a8d1; /*2ecc71*/
-    color: #ffffff; /*000000*/
-}
-
 label:focus {
     background-color: #72a8d1; /*000000*/
-}
-
-#cpu {
-    background-color: #72a8d1; /*2ecc71*/
-    color: #ffffff; /*000000*/
-}
-
-#memory {
-    background-color: #72a8d1; /*9b59b6*/
-}
-
-#disk {
-    background-color: #72a8d1; /*964B00*/
-}
-
-#backlight {
-    background-color: #72a8d1; /*90b1b1*/
-}
-
-#network {
-    background-color: #72a8d1; /*2980b9*/
 }
 
 #network.disconnected {
     background-color: #f53c3c;
 }
 
-#pulseaudio {
-    background-color: #72a8d1;  /*f1c40f*/
-    color: #ffffff; /*000000*/
-}
-
-#pulseaudio.muted {
-    background-color: #72a8d1; /*90b1b1*/
-    color: #2a5c45;
-}
-
-#wireplumber {
-    background-color: #72a8d1; /*fff0f5*/
-    color: #ffffff; /*000000*/
-}
-
-#wireplumber.muted {
-    background-color: #72a8d1; /*f53c3c*/
-}
-
 #custom-media {
-    background-color: #72a8d1; /*66cc99*/
-    color: #2a5c45;
     min-width: 100px;
 }
 
 #custom-media.custom-spotify {
-    background-color: #72a8d1; /*66cc99*/
+    background-color: #66cc99;
 }
 
 #custom-media.custom-vlc {
     background-color: #ffa000;
 }
 
-#temperature {
-    background-color: #72a8d1; /*f0932b*/
-}
-
 #temperature.critical {
     background-color: #eb4d4b;
-}
-
-#tray {
-    background-color: #72a8d1; /*2980b9*/
 }
 
 #tray > .passive {
@@ -247,42 +177,15 @@ label:focus {
     background-color: #eb4d4b;
 }
 
-#idle_inhibitor {
-    background-color: #5b84a3; /*2d3436*/
-}
-
-#idle_inhibitor.activated {
-    background-color: #72a8d1; /*ecf0f1*/
-    color: #2d3436;
-}
-
-#mpd {
-    background-color: #72a8d1; /*66cc99*/
-    color: #2a5c45;
-}
-
 #mpd.disconnected {
     background-color: #f53c3c;
 }
 
-#mpd.stopped {
-    background-color: #72a8d1; /*90b1b1*/
-}
-
-#mpd.paused {
-    background-color: #72a8d1; /*51a37a*/
-}
-
 #language {
-    background: #72a8d1; /*00b093*/
-    color: #ffffff; /*740864*/
-    padding: 0 5px;
     min-width: 100px;
 }
 
 #keyboard-state {
-    background: #72a8d1; /*97e1ad*/
-    color: #ffffff; /*000000*/
     padding: 0 0px;
     margin: 0 5px;
     min-width: 16px;
