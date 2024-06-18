@@ -1,6 +1,6 @@
 #!/bin/bash
 wtype 0
-if [ $? -eq 0 ]
+if [ $? -eq 0 ] # credits: https://github.com/dln/wofi-emoji
 then
     sed '1,/^### DATA ###$/d' $0 | wofi --show dmenu -i | cut -d ' ' -f 1 | tr -d '\n' | wtype -
 else

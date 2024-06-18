@@ -6,5 +6,4 @@
 - [Waybar](https://github.com/Alexays/Waybar)
 - [Wofi](https://hg.sr.ht/~scoopta/wofi)
 - [Clipman](https://github.com/chmouel/clipman)
-- [wofi-emoji](https://github.com/dln/wofi-emoji)
 - [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet)

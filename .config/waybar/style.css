@@ -90,7 +90,9 @@ button:hover {
 #mpd, #mpd.stopped, #mpd.paused,
 #keyboard-state,
 #wireplumber, #wireplumber.muted,
-#custom-media {
+#custom-media,
+#custom-playerctl,
+#custom-weather {
     padding: 0 10px;
     color: #ffffff;
     background-color: #72a8d1;
@@ -102,7 +104,8 @@ button:hover {
 #pulseaudio:hover,
 #power-profiles-daemon:hover,
 #cpu:hover,
-#memory:hover {
+#memory:hover,
+#custom-playerctl:hover {
     background-color: #5b84a3;
 }
 #window,
