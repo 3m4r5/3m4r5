@@ -8,19 +8,21 @@
     "reload_style_on_change": true,
     // Choose the order of the modules
     "modules-left": [
+        "custom/launcher",
         "hyprland/workspaces",
         "hyprland/mode",
-        "hyprland/scratchpad"
-    ],
-    "modules-center": [
+        "hyprland/scratchpad",
         "hyprland/window"
     ],
+    "modules-center": [],
     "modules-right": [
         "custom/playerctl",
         "custom/weather",
+        "custom/emoji",
+        "custom/clipboard",
         //"idle_inhibitor",
         //"network",
-        "power-profiles-daemon",
+        //"power-profiles-daemon",
         "memory",
         "cpu",
         "temperature",
@@ -29,9 +31,35 @@
         "pulseaudio",
         "battery",
         "clock",
-        "tray"
+        "tray",
+        "custom/power"
     ],
     // Modules configuration
+    "custom/launcher": {
+        "format": "",
+        "tooltip": false,
+        "on-click": "wofi"
+    },
+    "custom/power": {
+        "format": "",
+        "on-click": ".config/scripts/wofi-power.sh"
+    },
+    "custom/emoji": {
+        "format": "",
+        "on-click": ".config/scripts/wofi-emoji.sh"
+    },
+    "custom/clipboard": {
+        "format": "",
+        "on-click": ".config/scripts/wofi-clipman.sh",
+        "tooltip": true,
+        "return-type": "txt",
+        "interval": 10,
+        "exec": "sensors | tr '\n' ' '"
+    },
+    "hyprland/language": {
+        "format": "{} ",
+        "on-click": ".config/scripts/layoutswitcher.sh"
+    },
     "hyprland/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
@@ -113,7 +141,7 @@
     },
     "cpu": {
         "format": "{usage}% ",
-        "tooltip": false,
+        "tooltip": true,
         "on-click": "gnome-system-monitor"
     },
     "custom/playerctl": { // credits: https://github.com/Ubuntu-Sway/ubuntu-sway-default-settings/blob/noble/common/etc/skel/.config/waybar/config.jsonc
@@ -122,8 +150,8 @@
         "return-type": "json",
         "format": "{icon}",
         "format-icons": {
-            "Playing": "",
-            "Paused": ""
+            "Paused": "",
+            "Playing": ""
         },
         "exec": "playerctl metadata --format '{\"alt\": \"{{status}}\", \"tooltip\": \"{{playerName}}:  {{markup_escape(title)}} - {{markup_escape(artist)}}\" }'",
         "on-click": "playerctl play-pause; pkill -RTMIN+5 waybar",
@@ -134,7 +162,7 @@
     },
     "custom/weather": {
         "icon-size": 42,
-        "format": "{icon} {}",
+        "format": "{} {icon}",
         "tooltip": true,
         "interval": 3600,
         "exec": "/home/o/.config/waybar/weather.py",

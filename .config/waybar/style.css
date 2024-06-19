@@ -2,12 +2,13 @@
     font-family: 'Noto Sans Mono', 'Font Awesome 6 Free', 'Font Awesome 6 Brands', monospace;
     font-size: 13px;
     border-radius: 5px;
+    color: #ffffff;
 }
 
 window#waybar {
     background-color: rgba(43, 48, 59, 0.5);
     border-bottom: 3px solid rgba(100, 114, 125, 0.5);
-    color: #ffffff;
+    /*color: #ffffff;*/
     transition-property: background-color;
     transition-duration: .5s;
 }
@@ -49,7 +50,7 @@ button:hover {
 #workspaces button {
     padding: 0 5px;
     background-color: transparent;
-    color: #ffffff;
+    /*color: #ffffff;*/
 }
 
 #workspaces button:hover {
@@ -92,9 +93,14 @@ button:hover {
 #wireplumber, #wireplumber.muted,
 #custom-media,
 #custom-playerctl,
-#custom-weather {
+#custom-weather,
+#custom-emoji,
+#custom-clipboard,
+label:focus,
+#custom-power,
+#custom-launcher {
     padding: 0 10px;
-    color: #ffffff;
+    /*color: #ffffff;*/
     background-color: #72a8d1;
 }
 
@@ -105,7 +111,14 @@ button:hover {
 #power-profiles-daemon:hover,
 #cpu:hover,
 #memory:hover,
-#custom-playerctl:hover {
+#custom-playerctl:hover,
+#custom-emoji:hover,
+#custom-clipboard:hover,
+#custom-power:hover,
+#language:hover,
+#custom-safecharging:hover,
+#custom-launcher:hover,
+#custom-keybinds:hover {
     background-color: #5b84a3;
 }
 #window,
@@ -121,11 +134,6 @@ button:hover {
 /* If workspaces is the rightmost module, omit right margin */
 .modules-right > widget:last-child > #workspaces {
     margin-right: 0;
-}
-
-#battery {
-    background-color: #72a8d1/*ffffff*/;
-    color: #ffffff; /*000000*/
 }
 
 @keyframes blink {
@@ -147,10 +155,6 @@ button:hover {
 
 #power-profiles-daemon {
     padding-right: 15px;
-}
-
-label:focus {
-    background-color: #72a8d1; /*000000*/
 }
 
 #network.disconnected {
@@ -184,10 +188,6 @@ label:focus {
 
 #mpd.disconnected {
     background-color: #f53c3c;
-}
-
-#language {
-    min-width: 100px;
 }
 
 #keyboard-state {

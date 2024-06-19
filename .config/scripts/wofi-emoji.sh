@@ -1,12 +1,12 @@
 #!/bin/bash
 wtype 0
-if [ $? -eq 0 ] # credits: https://github.com/dln/wofi-emoji
+if [ $? -eq 0 ]
 then
     sed '1,/^### DATA ###$/d' $0 | wofi --show dmenu -i | cut -d ' ' -f 1 | tr -d '\n' | wtype -
 else
     sed '1,/^### DATA ###$/d' $0 | wofi --show dmenu -i | cut -d ' ' -f 1 | tr -d '\n' | wl-copy
 fi
-exit
+exit # credits: https://github.com/dln/wofi-emoji
 ### DATA ###
 😀 grinning face face smile happy joy :D grin
 😃 grinning face with big eyes face happy joy haha :D :) smile funny
