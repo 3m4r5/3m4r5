@@ -54,7 +54,7 @@
         "tooltip": true,
         "return-type": "txt",
         "interval": 10,
-        "exec": "sensors | tr '\n' ' '"
+        "exec": ""
     },
     "hyprland/language": {
         "format": "{} ",
@@ -165,7 +165,7 @@
         "format": "{} {icon}",
         "tooltip": true,
         "interval": 3600,
-        "exec": "/home/o/.config/waybar/weather.py",
+        "exec": ".config/scripts/weather.py",
         "return-type": "json",
         "format-icons": {
            "Unknown": "✨",
