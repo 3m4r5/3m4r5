@@ -101,6 +101,8 @@
 [2022](https://www.youtube.com/playlist?list=PL1SVyy_SXUBacYOVsmGLj8M1krENeXF_1)
 - [Atypical 2024](https://codeforces.com/group/0PwMI8kUp8),
 [playlist](https://www.youtube.com/playlist?list=PL3fu-4cinzyQZBwwETMHhRHrIR26Rpxue)
+-  IslaM SobhyYousof's [New-Comers-RoadMap](https://github.com/Sisco22-maker/New-Comers-RoadMap),
+[PhaseOne_RoadMap](https://github.com/Sisco22-maker/PhaseOne_RoadMap)
 - Universities Trainings:
     - [Al-Azhar ICPC Community](https://sites.google.com/view/azharicpc/home)
     - JU: [level 0](https://codeforces.com/group/OQSClAEYis),
