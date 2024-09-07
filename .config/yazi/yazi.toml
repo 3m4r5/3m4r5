@@ -1,0 +1,11 @@
+# yazi.toml
+
+[opener]
+open = [
+	{ run = 'flatpak run re.sonny.Junction "$@"', orphan = true },
+]
+
+[open]
+prepend_rules = [
+	{ name = "*", use = "open" },
+]

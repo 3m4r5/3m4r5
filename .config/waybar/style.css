@@ -1,15 +1,15 @@
 * {
     font-family: 'Noto Sans Mono', 'Font Awesome 6 Free', 'Font Awesome 6 Brands', monospace;
-    font-size: 13px;
+    font-size: 15px;
     border-radius: 5px;
     color: #ffffff;
 }
 
 window#waybar {
-    background-color: rgba(43, 48, 59, 0.5);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+    background-color: rgba(43, 48, 59, 0);
+    /* border-bottom: 3px solid rgba(100, 114, 125, 0.5); */
     transition-property: background-color;
-    transition-duration: .5s;
+    transition-duration: .1s;
 }
 
 window#waybar.hidden {
@@ -27,21 +27,25 @@ window#waybar.chromium {
 
 button {
     /* Use box-shadow instead of border so the text isn't offset */
-    box-shadow: inset 0 -3px transparent;
+    /* box-shadow: inset 0 -3px transparent; */
     /* Avoid rounded borders under each button name */
     border: none;
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 button:hover {
     background: inherit;
-    box-shadow: inset 0 -3px #72a8d1; /*ffffff*/
+    box-shadow: inset 0 30px #5b84a3;
 }
 
 #workspaces button {
     padding: 0 5px;
     background-color: transparent;
+}
+
+#workspaces button.active {
+    box-shadow: inset 0 30px #72a8d1;
 }
 
 #workspaces button:hover {
@@ -50,7 +54,7 @@ button:hover {
 
 #workspaces button.focused {
     background-color: #64727D;
-    box-shadow: inset 0 -3px #ffffff;
+    /* box-shadow: inset 0 -3px #ffffff; */
 }
 
 #workspaces button.urgent {
@@ -59,7 +63,13 @@ button:hover {
 
 #mode {
     background-color: #64727D;
-    box-shadow: inset 0 -3px #ffffff;
+    /* box-shadow: inset 0 -3px #ffffff; */
+}
+#language {
+    min-width: 44px;
+}
+#network {
+    min-width: 55px;
 }
 
 #clock,
@@ -89,14 +99,20 @@ button:hover {
 #custom-clipboard,
 label:focus,
 #custom-power,
-#custom-launcher {
-    padding: 0 10px;
+#custom-safecharging,
+#custom-launcher,
+#custom-keybinds {
+    padding: 0 8px;
     background-color: #72a8d1;
 }
 
+#custom-keybinds {
+    padding: 0 10 0 8px
+}
 /* you can set a style on hover for any module like this */
 #tray:hover,
 #clock:hover,
+#network:hover,
 #pulseaudio:hover,
 #power-profiles-daemon:hover,
 #cpu:hover,
