@@ -4,6 +4,7 @@
 - WM: [Hyprland](https://hyprland.org/)
 - Authentication Agent: [polkit-gnome](https://gitlab.gnome.org/Archive/policykit-gnome)
 - Bar: [Waybar](https://github.com/Alexays/Waybar)
+- Browser: [Zen](https://zen-browser.app/)
 - File Manager: [Yazi](https://yazi-rs.github.io/)
 - Opener: [Junction](https://github.com/sonnyp/Junction)
 - Screenshot: [Flameshot](https://github.com/flameshot-org/flameshot)
