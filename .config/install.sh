@@ -43,7 +43,7 @@ xdg-settings set default-web-browser re.sonny.Junction.desktop
 # Apple Color Emoji: https://gist.github.com/win0err/9d8c7f0feabdfe8a4c9787b02c79ac51
 mkdir ~/.local/share/fonts/
 wget https://github.com/samuelngs/apple-emoji-linux/releases/latest/download/AppleColorEmoji.ttf -O ~/.local/share/fonts/AppleColorEmoji.ttf
-#<|\/</ change /etc/fonts/conf.d/60-generic.conf
+sudo sed -i -e 's/Noto Color/Apple Color Emoji<\/family><family>Noto Color/g' /etc/fonts/conf.d/60-generic.conf
 mkdir ~/.config/fontconfig/
 tee ~/.config/fontconfig/fonts.conf << FONTS
 <?xml version="1.0" encoding="UTF-8"?>
