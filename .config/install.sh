@@ -14,7 +14,7 @@ sudo dnf -y install \
 
 # list installed packages: dnf repoquery --userinstalled
 #                                           for junction and Zen V   for vscode  V  for yazi V  for btop V
-sudo dnf install -y hyprland micro btop polkit-gnome rofimoji flatpak flameshot git ffmpegthumbnailer rocm-smi
+sudo dnf install -y hyprland micro btop polkit-gnome rofimoji flatpak flameshot git ffmpegthumbnailer rocm-smi waybar kitty
 
 # yazi:
 wget https://github.com/sxyazi/yazi/releases/latest/download/yazi-x86_64-unknown-linux-gnu.zip
