@@ -18,3 +18,8 @@
 - Fonts: [Nerd Fonts Symbols](https://www.nerdfonts.com/),
 [Apple Color Emoji for Linux](https://github.com/samuelngs/apple-emoji-linux),
 [tutorial](https://gist.github.com/win0err/9d8c7f0feabdfe8a4c9787b02c79ac51)
+
+### install
+```sh
+wget -qO- https://raw.githubusercontent.com/3m4r5/3m4r5/main/.config/install.sh | bash
+```
