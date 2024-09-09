@@ -14,7 +14,7 @@ sudo dnf -y install \
 
 # list installed packages: dnf repoquery --userinstalled
 #                                           for junction and Zen V   for vscode  V  for yazi V  for btop V
-sudo dnf install -y hyprland micro btop polkit-gnome rofimoji flatpak flameshot git ffmpegthumbnailer rocm-smi waybar kitty
+sudo dnf install -y hyprland micro btop polkit-gnome rofimoji flatpak flameshot git ffmpegthumbnailer rocm-smi waybar kitty network-manager-applet blueman
 
 # yazi:
 wget https://github.com/sxyazi/yazi/releases/latest/download/yazi-x86_64-unknown-linux-gnu.zip
@@ -22,6 +22,9 @@ unzip yazi-x86_64-unknown-linux-gnu.zip
 rm -f yazi-x86_64-unknown-linux-gnu.zip yazi-x86_64-unknown-linux-gnu/README.md yazi-x86_64-unknown-linux-gnu/LICENSE
 mv yazi-x86_64-unknown-linux-gnu/* ~/.local/bin/
 rm -rf yazi-x86_64-unknown-linux-gnu
+
+# cliphist:
+wget https://github.com/sentriz/cliphist/releases/latest/download/v0.5.0-linux-amd64 -O ~/.local/bin/cliphist
 
 # config:
 cd ~
