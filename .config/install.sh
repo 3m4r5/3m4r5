@@ -13,8 +13,8 @@ sudo dnf -y install \
   https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 
 # list installed packages: dnf repoquery --userinstalled
-#                                           for junction and Zen V   for vscode  V  for yazi V  for btop V
-sudo dnf install -y hyprland micro btop polkit-gnome rofimoji flatpak flameshot git ffmpegthumbnailer rocm-smi waybar kitty network-manager-applet blueman
+#        for yazi and vscode  V                 for junction and Zen V            for yazi V             V for btop
+sudo dnf install -y hyprland git micro btop polkit-gnome rofimoji flatpak flameshot ffmpegthumbnailer rocm-smi waybar kitty network-manager-applet blueman rofi-wayland
 
 # yazi:
 wget https://github.com/sxyazi/yazi/releases/latest/download/yazi-x86_64-unknown-linux-gnu.zip
