@@ -21,5 +21,5 @@
 
 ### install
 ```sh
-wget -qO- https://raw.githubusercontent.com/3m4r5/3m4r5/main/.config/install.sh | bash
+wget https://raw.githubusercontent.com/3m4r5/3m4r5/main/.config/install.sh && sh install.sh
 ```
