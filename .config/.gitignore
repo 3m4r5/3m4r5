@@ -1,0 +1,14 @@
+/*
+!*/
+*/
+!.gitignore
+!hypr/
+!waybar/
+!yazi/
+!rofi/
+!rofi/*/
+!rofi/*/*/
+!rofi/*/*/*/
+!VSCodium/
+!scripts/
+!scripts/*/
