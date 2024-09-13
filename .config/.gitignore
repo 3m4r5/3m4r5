@@ -12,5 +12,7 @@
 !rofi/*/*/
 !rofi/*/*/*/
 !VSCodium/
+!VSCodium/*/
+!VSCodium/*/*/
 !scripts/
 !scripts/*/
