@@ -11,6 +11,8 @@
 - [Colin Galen's Roadmap](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Pypup](https://pypup.com/roadmap)
 - [NeetCode](https://neetcode.io)
 - [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep)
 - [Errichto Algorithms](https://github.com/Errichto/youtube/wiki)
