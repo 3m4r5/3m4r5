@@ -22,6 +22,11 @@
 - [Topcoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 - [TeamsCode](https://www.teamscode.org/)
 - [PIRATE KING](https://www.piratekingdom.com/leetcode/study-guide)
+- Cheat Sheets:
+    - [My Contest Cheat Sheet](https://docs.google.com/document/d/1W7smQobNnqjeQ0QdlWs8ueH9BSIcpElvUnshpjlOg8Y)
+    - [bubblesolve Cheat Sheet](https://people.kth.se/~eliasrg/writeups/cheatsheet.pdf)
+    - [Momentum Library](https://github.com/OmarBazaraa/Competitive-Programming/blob/master/docs/Momentum%20Library.pdf)
+    - [ar-pavel Cheat Sheet](https://github.com/ar-pavel/CP-CheatSheet)
 - [Codeforces groups](https://codeforces.com/groups):
     - [New Comers Summer Camp ACM assiut](https://codeforces.com/group/3jD9SzY31n)
     - [JPC | Atypical | Newcomers 2024](https://codeforces.com/group/ZIN4PlsExe)
