@@ -20,14 +20,16 @@ mkdir ~/.config
 mkdir ~/.local/bin
 
 # yazi:
-wget https://github.com/sxyazi/yazi/releases/latest/download/yazi-x86_64-unknown-linux-gnu.zip
+cd ~
+curl -LO https://github.com/sxyazi/yazi/releases/latest/download/yazi-x86_64-unknown-linux-gnu.zip
 unzip yazi-x86_64-unknown-linux-gnu.zip
 rm -f yazi-x86_64-unknown-linux-gnu.zip yazi-x86_64-unknown-linux-gnu/README.md yazi-x86_64-unknown-linux-gnu/LICENSE
 mv yazi-x86_64-unknown-linux-gnu/* ~/.local/bin/
 rm -rf yazi-x86_64-unknown-linux-gnu
 
 # cliphist:
-wget https://github.com/sentriz/cliphist/releases/latest/download/v0.5.0-linux-amd64 -O ~/.local/bin/cliphist
+curl -L https://github.com/sentriz/cliphist/releases/latest/download/v0.5.0-linux-amd64 -o ~/.local/bin/cliphist
+chmod +x ~/.local/bin/cliphist
 
 # config:
 cd ~
@@ -79,7 +81,7 @@ tee ~/.config/fontconfig/fonts.conf << FONTS
 </fontconfig>
 FONTS
 
-# nerd fonts:
+# nerd fonts: (WIP)
 cd ~/.local/share/fonts/
 wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/NerdFontsSymbolsOnly.zip
 unzip NerdFontsSymbolsOnly.zip
