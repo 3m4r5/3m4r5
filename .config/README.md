@@ -1,5 +1,5 @@
 # Software Used (WIP):
-- OS: [Fedora Sway Spin](https://fedoraproject.org/spins/sway)
+- OS: [Fedora](https://fedoraproject.org/)
 - Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
 - WM: [Hyprland](https://hyprland.org/)
 - Authentication Agent: [polkit-gnome](https://gitlab.gnome.org/Archive/policykit-gnome)
@@ -21,5 +21,5 @@
 
 ### install
 ```sh
-curl https://raw.githubusercontent.com/3m4r5/3m4r5/main/.config/install.sh -o install.sh && sh install.sh
+curl -O https://raw.githubusercontent.com/3m4r5/3m4r5/main/.config/install.sh && sh install.sh
 ```
