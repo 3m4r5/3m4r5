@@ -10,16 +10,16 @@
     "modules-left": [
         "custom/launcher",
         "custom/keybinds",
-        "hyprland/workspaces"
+        "hyprland/workspaces",
         //"hyprland/mode",
         //"hyprland/scratchpad",
-        //"hyprland/window",
-        // "wlr/taskbar"
+        // "wlr/taskbar",
+        "hyprland/window"
     ],
     "modules-center": [],
     "modules-right": [
-        "bluetooth",
-        "mpd",
+        // "bluetooth",
+        // "mpd",
         "custom/playerctl",
         "custom/weather",
         // "custom/emoji",
@@ -52,14 +52,14 @@
     },
     "wlr/taskbar": {
         "format": "{icon}",
-        "icon-size": 18,
+        "icon-size": 15,
         "tooltip-format": "{title}",
         "on-click": "activate"
     },
     "custom/launcher": {
         "format": "<span font='Font Awesome 6 Pro'></span>",
         "tooltip": false,
-        "on-click": ".config/scripts/launcher.sh"
+        "on-click": "rofi -show drun -theme \"$HOME/.config/rofi/launchers/type-3/style-2.rasi\""
     },
     "custom/safecharging": {
         "format": "🔋{icon}",
@@ -96,22 +96,22 @@
         "disable-scroll": true,
         "all-outputs": true,
         "warp-on-scroll": false,
-        "format": "{icon}",
+        // "format": "{icon}",
         "on-scroll-up": "hyprctl dispatch workspace e-1",
         "on-scroll-down": "hyprctl dispatch workspace e+1",
-        // "format": "{name}: {icon}",
+        "format": "{name}"
         // https://fontawesome.com/search
-        "format-icons": {
-            "1": "",//",
-            "2": "",//",
-            "3": "󰨞",//",
-            // "4": "",
-            // "5": "",
-            // "6": "",
-            "urgent": "",
-            "focused": ""
-            // "default": ""
-        }
+        // "format-icons": {
+        //     "1": "",//",
+        //     "2": "",//",
+        //     "3": "󰨞",//",
+        //     // "4": "",
+        //     // "5": "",
+        //     // "6": "",
+        //     "urgent": "",
+        //     "focused": ""
+        //     // "default": ""
+        // }
     },
     "keyboard-state": {
         "numlock": true,

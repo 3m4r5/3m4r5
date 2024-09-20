@@ -1,12 +1,14 @@
 /*
 !*/
+!.gitignore
+!.bash_aliases
 !README.md
 !install.sh
 */
-!.gitignore
 !hypr/
 !waybar/
 !yazi/
+!hyprland-autoname-workspaces/
 !rofi/
 !rofi/*/
 !rofi/*/*/

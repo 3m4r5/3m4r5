@@ -46,10 +46,15 @@ xdg-settings set default-web-browser re.sonny.Junction.desktop
 xdg-mime default re.sonny.Junction.desktop x-scheme-handler/file
 xdg-mime default re.sonny.Junction.desktop inode/directory
 
+# nerd fonts: (WIP)
+mkdir ~/.local/share/fonts/
+cd ~/.local/share/fonts/
+curl -LO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/NerdFontsSymbolsOnly.zip
+unzip NerdFontsSymbolsOnly.zip
+rm -f NerdFontsSymbolsOnly.zip LICENSE README.md
 
 # Apple Color Emoji: https://gist.github.com/win0err/9d8c7f0feabdfe8a4c9787b02c79ac51
-mkdir ~/.local/share/fonts/
-wget https://github.com/samuelngs/apple-emoji-linux/releases/latest/download/AppleColorEmoji.ttf -O ~/.local/share/fonts/AppleColorEmoji.ttf
+curl -LO https://github.com/samuelngs/apple-emoji-linux/releases/latest/download/AppleColorEmoji.ttf
 sudo sed -i -e 's/Noto Color/Apple Color Emoji<\/family><family>Noto Color/g' /etc/fonts/conf.d/60-generic.conf # TODO 45
 mkdir ~/.config/fontconfig/
 tee ~/.config/fontconfig/fonts.conf << FONTS
@@ -59,18 +64,21 @@ tee ~/.config/fontconfig/fonts.conf << FONTS
   <alias>
     <family>serif</family>
     <prefer>
+      <family>Symbols Nerd Font</family>
       <family>Apple Color Emoji</family>
     </prefer>
   </alias>
   <alias>
     <family>sans-serif</family>
     <prefer>
+      <family>Symbols Nerd Font</family>
       <family>Apple Color Emoji</family>
     </prefer>
   </alias>
   <alias>
     <family>monospace</family>
     <prefer>
+      <family>Symbols Nerd Font Mono</family>
       <family>Apple Color Emoji</family>
     </prefer>
   </alias>
@@ -80,12 +88,6 @@ tee ~/.config/fontconfig/fonts.conf << FONTS
   </match>
 </fontconfig>
 FONTS
-
-# nerd fonts: (WIP)
-cd ~/.local/share/fonts/
-wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/NerdFontsSymbolsOnly.zip
-unzip NerdFontsSymbolsOnly.zip
-rm -f NerdFontsSymbolsOnly.zip LICENSE README.md
 
 rm -rf ~/.cache/fontconfig
 sudo fc-cache -r -v

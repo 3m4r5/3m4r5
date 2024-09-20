@@ -1,0 +1,50 @@
+[format]
+dedup = true
+dedup_inactive_fullscreen = false
+delim = " "
+client = "{icon}{delim}"
+client_active = "<b>{icon}</b>"
+workspace = "{id}:{delim}{clients}"
+workspace_empty = "{id}"
+client_dup = "{icon}{counter_sup}{delim}"
+client_dup_fullscreen = "[{icon}]{delim}{icon}{counter_unfocused_sup}"
+client_fullscreen = "[{icon}]{delim}"
+
+# hyprctl clients
+[class]
+DEFAULT = ""
+"kitty" = ""
+"mpv" = ""
+"dev.zed.Zed" = ""
+"Code" = "󰨞"
+"zen-alpha" = "󰖟"
+"org.mozilla.firefox" = ""
+"Thunar" = ""
+#"org.gnome.Software" = ""
+#"go" = ""
+#"python" = ""
+#"thunderbird" = ""
+
+[title_in_class.".*zen.*"]
+"(?i)youtube" = ""
+"(?i)linkedin" = ""
+"(?i)drive" = ""
+"(?i)reddit" = ""
+"(?i)gitlab" = ""
+"(?i)wiki" = ""
+"(?i)telegram" = ""
+"(?i)discord" = ""
+"(?i)pass" = ""
+"(?i)github" = ""
+"(?i)ycombinator" = ""
+"(?i)hackerrank" = ""
+"(?i)medium" = ""
+"(?i)stackoverflow" = ""
+"(?i)stackexchange" = ""
+#"(?i)hyprland" = ""
+
+[title_in_class.".*kitty.*"]
+"(?i)Yazi" = ""
+
+[exclude]
+"" = "^$" # prevent displaying clients with empty class

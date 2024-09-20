@@ -16,8 +16,7 @@
 - Network Manager: [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet)
 - Bluetooth Manager: [Blueman](https://github.com/blueman-project/blueman)
 - Fonts: [Nerd Fonts Symbols](https://www.nerdfonts.com/),
-[Apple Color Emoji for Linux](https://github.com/samuelngs/apple-emoji-linux),
-[tutorial](https://gist.github.com/win0err/9d8c7f0feabdfe8a4c9787b02c79ac51)
+[Apple Color Emoji for Linux](https://github.com/samuelngs/apple-emoji-linux)
 
 ### install
 ```sh
