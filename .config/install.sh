@@ -35,6 +35,7 @@ chmod +x ~/.local/bin/cliphist
 cd ~
 git clone https://github.com/3m4r5/3m4r5.git
 cp -r ~/3m4r5/.config/* ~/.config/
+cp ~/3m4r5/.config/.bash_aliases ~/3m4r5/.config/.gitignore ~/.config/
 rm -rf 3m4r5
 chmod +x ~/.config/scripts/*
 
