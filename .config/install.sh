@@ -14,7 +14,7 @@ sudo dnf -y copr enable solopasha/hyprland
 
 # list installed packages: dnf repoquery --userinstalled
 #                 for vscode  V                 for junction and Zen V            for yazi V             V for btop
-sudo dnf install -y hyprland git micro btop polkit-gnome rofimoji flatpak flameshot ffmpegthumbnailer rocm-smi waybar kitty network-manager-applet blueman rofi-wayland
+sudo dnf install -y hyprland git micro btop polkit-gnome rofimoji flatpak flameshot ffmpegthumbnailer rocm-smi waybar kitty network-manager-applet blueman rofi-wayland hyprland-autoname-workspaces
 
 mkdir ~/.config
 mkdir ~/.local/bin
