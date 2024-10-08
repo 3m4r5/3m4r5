@@ -150,7 +150,7 @@
     - [debug C++ in VS Code](https://code.visualstudio.com/docs/cpp/introvideos-cpp#_debug-a-c-project)
     - [VS Code extension for automatic testing](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
     - [browser extension for importing test cases](https://github.com/jmerle/competitive-companion)
-    - [My Code Snippets](https://github.com/3m4r5/3m4r5/blob/main/.config/VSCodium/User/snippets/cpp.json)
+    - [My Code Snippets](https://github.com/3m4r5/dotfiles/blob/main/VSCodium/User/snippets/cpp.json)
     - [online tool for creating code snippets](https://snippet-generator.app/)
     - [My settings](https://github.com/3m4r5/3m4r5/blob/main/.config/VSCodium/User/settings.json)
     - other VS Code extensions I use:
