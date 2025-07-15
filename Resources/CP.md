@@ -36,67 +36,72 @@
     - [Open Contest Series](https://codeforces.com/group/T99c3atS1n)
 - Other Online Judges:
     - [LeetCode](https://leetcode.com/)
-    - [CS Academy](https://csacademy.com/)
     - [hackerearth](https://www.hackerearth.com/)
-    - [thabit](https://thabit.io/)
+    - [thabit](https://thabit.io/) (dead)
     - [LogicRush](https://logicrush.com/)
     - [codewars](https://www.codewars.com/)
     - [edabit](https://edabit.com/)
     - [Project Euler](https://projecteuler.net/)
     - [CodeDrills](https://codedrills.io/problems)
-    - [USACO](https://train.usaco.org/)
     - [GeeksforGeeks](https://www.geeksforgeeks.org/explore)
+    - [coderbyte](https://coderbyte.com/challenges)
+    - [beecrowd](https://judge.beecrowd.com/)
+    - [AcWing](https://www.acwing.com/)
     - <details><summary><a href="https://vjudge.net">Virtual Judge</summary><ul>
-        <li><a href="http://poj.org/"><img src="https://vjudge.net/static/bundle/a3a137580388fd8ebace.ico" width="20"/> POJ</a></li>
-        <li><a href="https://pintia.cn/problem-sets/91827364500"><img src="https://vjudge.net/static/bundle/82dd100dc5ab2a91c05a.ico" width="20"/> ZOJ</a></li>
-        <li><a href="http://livearchive.onlinejudge.org/index.php"><img src="https://vjudge.net/static/bundle/4b67f78de220633fd18a.ico" width="20"/> UVALive</a> (dead)</li>
-        <li><a href="https://codeforces.com/problemsets/acmsguru"><img src="https://vjudge.net/static/bundle/150071ef43ace6b8a0cf.ico" width="20"/> SGU</a></li>
-        <li><a href="http://acm.timus.ru/"><img src="https://vjudge.net/static/bundle/4365153ee3c7a254da01.ico" width="20"/> URAL</a></li>
-        <li><a href="http://www.hustoj.org/"><img src="https://vjudge.net/static/bundle/a3ffd4e897e9c08baa20.jpg" width="20"/> HUST</a> (dead)</li>
-        <li><a href="http://www.spoj.com/"><img src="https://vjudge.net/static/bundle/7ca10a33e9e8213fa737.png" width="20"/> SPOJ</a></li>
-        <li><a href="http://acm.hdu.edu.cn/"><img src="https://vjudge.net/static/bundle/73d8facc9c2896e38f19.png" width="20"/> HDU</a></li>
-        <li><a href="http://www.lydsy.com/JudgeOnline/"><img src="https://vjudge.net/static/bundle/f0046ccc6572230d2390.png" width="20"/> HYSBZ</a> (dead)</li>
-        <li><a href="https://onlinejudge.org/"><img src="https://vjudge.net/static/bundle/4b67f78de220633fd18a.ico" width="20"/> UVA</a></li>
-        <li><a href="http://codeforces.com/"><img src="https://vjudge.net/static/bundle/9e471d950278bb99d90b.png" width="20"/> CodeForces</a></li>
-        <li><a href="http://www.codah.club/"><img src="https://vjudge.net/static/bundle/a1ebf61afd6229844ae2.ico" width="20"/> Z-Trening</a> (dead)</li>
-        <li><a href="http://judge.u-aizu.ac.jp/"><img src="https://vjudge.net/static/bundle/72c318000fd40d15a16e.ico" width="20"/> Aizu</a></li>
-        <li><a href="http://lightoj.com/"><img src="https://vjudge.net/static/bundle/01f0e52b64c44c1ae211.png" width="20"/> LightOJ</a></li>
-        <li><a href="https://github.com/HeRaNO/cdoj-vjudge/wiki"><img src="https://vjudge.net/static/bundle/eb05969527c589a81e25.png" width="20"/> UESTC</a></li>
-        <li><a href="https://ac.2333.moe/"><img src="https://vjudge.net/static/bundle/afb9e20655d616ee85c2.jpg" width="20"/> NBUT</a></li>
-        <li><a href="http://acm.fzu.edu.cn/"><img src="https://vjudge.net/static/bundle/32f1c4c1b0d48ac81f68.gif" width="20"/> FZU</a> (dead)</li>
-        <li><a href="http://acm.csu.edu.cn/OnlineJudge/"><img src="https://vjudge.net/static/bundle/1cf95a7d5db47f5bfda8.ico" width="20"/> CSU</a> (dead)</li>
-        <li><a href="https://acm.scu.edu.cn/"><img src="https://vjudge.net/static/bundle/cb9b6884c5d048b76b54.ico" width="20"/> SCU</a> (dead)</li>
-        <li><a href="http://acdream.info/"><img src="https://vjudge.net/static/bundle/a5863beba6b8749fb835.ico" width="20"/> ACdream</a> (dead)</li>
-        <li><a href="http://www.codechef.com/"><img src="https://vjudge.net/static/bundle/d730e6df854b00193b35.ico" width="20"/> CodeChef</a></li>
-        <li><a href="http://openjudge.cn/"><img src="https://vjudge.net/static/bundle/a3a137580388fd8ebace.ico" width="20"/> OpenJudge</a></li>
-        <li><a href="https://open.kattis.com/"><img src="https://vjudge.net/static/bundle/0cf505f08cb62af24292.ico" width="20"/> Kattis</a></li>
-        <li><a href="https://hihocoder.com/"><img src="https://vjudge.net/static/bundle/86dc5088185af61f77b5.jpg" width="20"/> HihoCoder</a> (dead)</li>
-        <li><a href="http://acm.hit.edu.cn/hoj/"><img src="https://vjudge.net/static/bundle/016595136a632184517a.png" width="20"/> HIT</a> (dead)</li>
-        <li><a href="http://acm.hrbust.edu.cn/"><img src="https://vjudge.net/static/bundle/8c2f67900665583ec51f.ico" width="20"/> HRBUST</a> (dead)</li>
-        <li><a href="http://acm.mipt.ru/judge/"><img src="https://vjudge.net/static/bundle/7fe12ac344725c3c6669.ico" width="20"/> EIJudge</a> (dead)</li>
-        <li><a href="https://atcoder.jp/"><img src="https://vjudge.net/static/bundle/9f5a56961e774027bdcf.png" width="20"/> AtCoder</a></li>
-        <li><a href="https://www.hackerrank.com/"><img src="https://vjudge.net/static/bundle/827e9a41ed1deb5922b5.png" width="20"/> HackerRank</a></li>
-        <li><a href="https://www.51nod.com/"><img src="https://vjudge.net/static/bundle/a980f768ea0540723431.ico" width="20"/> 51Nod</a></li>
-        <li><a href="https://arena.topcoder.com/"><img src="https://vjudge.net/static/bundle/3464519813a1484173a5.png" width="20"/> TopCoder</a></li>
-        <li><a href="https://www.e-olymp.com/en/"><img src="https://vjudge.net/static/bundle/4d5bd9a45b1a9245b670.ico" width="20"/> EOlymp</a></li>
-        <li><a href="https://nanti.jisuanke.com/"><img src="https://vjudge.net/static/bundle/e059987bc885b5336b00.ico" width="20"/> 计蒜客</a></li>
-        <li><a href="https://loj.ac/"><img src="https://vjudge.net/static/bundle/d319c0859f22922e76db.ico" width="20"/> LibreOJ</a></li>
-        <li><a href="https://uoj.ac/"><img src="https://vjudge.net/static/bundle/de2b69c0cb3f89ec9bc9.ico" width="20"/> UniversalOJ</a></li>
-        <li><a href="https://darkbzoj.cc"><img src="https://vjudge.net/static/bundle/de2b69c0cb3f89ec9bc9.ico" width="20"/> 黑暗爆炸</a></li>
-        <li><a href="https://cpc.csgrandeur.cn/"><img src="https://vjudge.net/static/bundle/7228007bdb3f510c8b5a.ico" width="20"/> CSG</a></li>
-        <li><a href="https://dmoj.ca/"><img src="https://vjudge.net/static/bundle/cb63be31d0c8a9c931bc.png" width="20"/> DMOJ</a></li>
-        <li><a href="https://toph.co/"><img src="https://vjudge.net/static/bundle/4225461136c883368dba.png" width="20"/> Toph</a></li>
-        <li><a href="https://www.luogu.com.cn/"><img src="https://vjudge.net/static/bundle/4bccb2a6cf4dc154729b.ico" width="20"/> 洛谷</a></li>
-        <li><a href="https://www.acmicpc.net/lang?lang=1"><img src="https://vjudge.net/static/bundle/fb8265f1b129edaf4b15.png" width="20"/> Baekjoon</a></li>
-        <li><a href="http://qoj.ac/"><img src="https://vjudge.net/static/bundle/de2b69c0cb3f89ec9bc9.ico" width="20"/> QOJ</a></li>
-        <li><a href="https://cses.fi/problemset/"><img src="https://vjudge.net/static/bundle/8aeb2e93affef2d6e117.png" width="20"/> CSES</a></li>
-        <li><a href="http://www.usaco.org/index.php"><img src="https://vjudge.net/static/bundle/00b630b2ef7c4027b5bb.png" width="20"/> USACO</a></li>
-        <li><a href="https://oj.uz/"><img src="https://vjudge.net/static/bundle/75804f61731ecc629cc9.ico" width="20"/> oj.uz</a></li>
-        <li><a href="https://judge.yosupo.jp/"><img src="https://vjudge.net/static/bundle/84e15ca8b95e0d77954b.ico" width="20"/> Yosupo</a></li>
-        <li><a href="https://yukicoder.me/"><img src="https://vjudge.net/static/bundle/3d79e1d7488e2d01d0d9.png" width="20"/> yukicoder</a></li>
-        <li><a href="https://oj.vnoi.info/"><img src="https://vjudge.net/static/bundle/a507b35397cb4dd43cc7.png" width="20"/> VNOJ</a></li>
-        <li><a href="https://tlx.toki.id/"><img src="https://vjudge.net/static/bundle/eb0b5a7d27b56279ee6a.ico" width="20"/> TLX</a></li>
-        <li><a href="https://new.bzoj.org:88/"><img src="https://vjudge.net/static/bundle/b0ef9eadb2afb8a94b73.png" width="20"/> BZOJ</a></li>
+        <li><a href="http://poj.org/"><img height="20" src="https://vjudge.net//static/bundle/a3a137580388fd8ebace.ico"> POJ</a></li>
+        <li><a href="https://pintia.cn/problem-sets/91827364500"><img height="20" src="https://vjudge.net//static/bundle/82dd100dc5ab2a91c05a.ico"> ZOJ</a></li>
+        <li><a href="http://livearchive.onlinejudge.org/index.php"><img height="20" src="https://vjudge.net//static/bundle/4b67f78de220633fd18a.ico"> UVALive</a> (dead)</li>
+        <li><a href="https://codeforces.com/problemsets/acmsguru"><img height="20" src="https://vjudge.net//static/bundle/150071ef43ace6b8a0cf.ico"> SGU</a></li>
+        <li><a href="http://acm.timus.ru/"><img height="20" src="https://vjudge.net//static/bundle/4365153ee3c7a254da01.ico"> URAL</a></li>
+        <li><a href="http://www.hustoj.org/"><img height="20" src="https://vjudge.net//static/bundle/a3ffd4e897e9c08baa20.jpg"> HUST</a> (dead)</li>
+        <li><a href="http://www.spoj.com/"><img height="20" src="https://vjudge.net//static/bundle/7ca10a33e9e8213fa737.png"> SPOJ</a></li>
+        <li><a href="http://acm.hdu.edu.cn/"><img height="20" src="https://vjudge.net//static/bundle/73d8facc9c2896e38f19.png"> HDU</a></li>
+        <li><a href="http://www.lydsy.com/JudgeOnline/"><img height="20" src="https://vjudge.net//static/bundle/f0046ccc6572230d2390.png"> HYSBZ</a> (dead)</li>
+        <li><a href="https://onlinejudge.org/"><img height="20" src="https://vjudge.net//static/bundle/4b67f78de220633fd18a.ico"> UVA</a></li>
+        <li><a href="http://codeforces.com/"><img height="20" src="https://vjudge.net//static/bundle/9e471d950278bb99d90b.png"> CodeForces</a></li>
+        <li><a href="http://www.codah.club/"><img height="20" src="https://vjudge.net//static/bundle/a1ebf61afd6229844ae2.ico"> Z-Trening</a> (dead)</li>
+        <li><a href="http://judge.u-aizu.ac.jp/"><img height="20" src="https://vjudge.net//static/bundle/72c318000fd40d15a16e.ico"> Aizu</a></li>
+        <li><a href="http://lightoj.com/"><img height="20" src="https://vjudge.net//static/bundle/01f0e52b64c44c1ae211.png"> LightOJ</a></li>
+        <li><a href="https://cdoj.site/d/lutece/"><img height="20" src="https://vjudge.net//static/bundle/eb05969527c589a81e25.png"> UESTC</a></li>
+        <li><a href="https://ac.2333.moe/"><img height="20" src="https://vjudge.net//static/bundle/afb9e20655d616ee85c2.jpg"> NBUT</a></li>
+        <li><a href="http://acm.fzu.edu.cn/"><img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/c4/Fuzhou_University_logo.png"> FZU</a> (dead)</li>
+        <li><a href="http://acm.csu.edu.cn/OnlineJudge/"><img height="20" src="https://vjudge.net//static/bundle/1cf95a7d5db47f5bfda8.ico"> CSU</a> (dead)</li>
+        <li><a href="https://acm.scu.edu.cn/"><img height="20" src="https://vjudge.net//static/bundle/cb9b6884c5d048b76b54.ico"> SCU</a> (dead)</li>
+        <li><a href="http://acdream.info/"><img height="20" src="https://vjudge.net//static/bundle/a5863beba6b8749fb835.ico"> ACdream</a> (dead)</li>
+        <li><a href="http://www.codechef.com/"><img height="20" src="https://vjudge.net//static/bundle/d730e6df854b00193b35.ico"> CodeChef</a></li>
+        <li><a href="http://openjudge.cn/"><img height="20" src="https://vjudge.net//static/bundle/a3a137580388fd8ebace.ico"> OpenJudge</a></li>
+        <li><a href="https://open.kattis.com/"><img height="20" src="https://vjudge.net//static/bundle/0cf505f08cb62af24292.ico"> Kattis</a></li>
+        <li><a href="https://hihocoder.com/"><img height="20" src="https://vjudge.net//static/bundle/86dc5088185af61f77b5.jpg"> HihoCoder</a> (dead)</li>
+        <li><a href="http://acm.hit.edu.cn/hoj/"><img height="20" src="https://vjudge.net//static/bundle/016595136a632184517a.png"> HIT</a> (dead)</li>
+        <li><a href="http://acm.hrbust.edu.cn/"><img height="20" src="https://vjudge.net//static/bundle/8c2f67900665583ec51f.ico"> HRBUST</a> (dead)</li>
+        <li><a href="http://acm.mipt.ru/judge/"><img height="20" src="https://vjudge.net//static/bundle/7fe12ac344725c3c6669.ico"> EIJudge</a> (dead)</li>
+        <li><a href="https://atcoder.jp/"><img height="20" src="https://vjudge.net//static/bundle/9f5a56961e774027bdcf.png"> AtCoder</a></li>
+        <li><a href="https://www.hackerrank.com/"><img height="20" src="https://vjudge.net//static/bundle/827e9a41ed1deb5922b5.png"> HackerRank</a></li>
+        <li><a href="https://www.51nod.com/"><img height="20" src="https://vjudge.net//static/bundle/a980f768ea0540723431.ico"> 51Nod</a></li>
+        <li><a href="https://arena.topcoder.com/"><img height="20" src="https://vjudge.net//static/bundle/3464519813a1484173a5.png"> TopCoder</a> (dead)</li>
+        <li><a href="https://basecamp.eolymp.com/en"><img height="20" src="https://vjudge.net//static/bundle/4d5bd9a45b1a9245b670.ico"> EOlymp</a></li>
+        <li><a href="https://nanti.jisuanke.com/"><img height="20" src="https://vjudge.net//static/bundle/e059987bc885b5336b00.ico"> 计蒜客</a></li>
+        <li><a href="https://loj.ac/"><img height="20" src="https://vjudge.net//static/bundle/d319c0859f22922e76db.ico"> LibreOJ</a></li>
+        <li><a href="https://uoj.ac/"><img height="20" src="https://vjudge.net//static/bundle/de2b69c0cb3f89ec9bc9.ico"> UniversalOJ</a></li>
+        <li><a href="https://darkbzoj.cc"><img height="20" src="https://vjudge.net//static/bundle/de2b69c0cb3f89ec9bc9.ico"> 黑暗爆炸</a> (dead)</li>
+        <li><a href="https://cpc.csgrandeur.cn/"><img height="20" src="https://vjudge.net//static/bundle/7228007bdb3f510c8b5a.ico"> CSG</a></li>
+        <li><a href="https://dmoj.ca/"><img height="20" src="https://vjudge.net//static/bundle/cb63be31d0c8a9c931bc.png"> DMOJ</a></li>
+        <li><a href="https://toph.co/"><img height="20" src="https://vjudge.net//static/bundle/4225461136c883368dba.png"> Toph</a></li>
+        <li><a href="https://www.luogu.com.cn/"><img height="20" src="https://vjudge.net//static/bundle/4bccb2a6cf4dc154729b.ico"> 洛谷</a></li>
+        <li><a href="https://www.acmicpc.net/lang?lang=1"><img height="20" src="https://vjudge.net//static/bundle/fb8265f1b129edaf4b15.png"> Baekjoon</a></li>
+        <li><a href="http://qoj.ac/"><img height="20" src="https://vjudge.net//static/bundle/de2b69c0cb3f89ec9bc9.ico"> QOJ</a></li>
+        <li><a href="https://cses.fi/problemset/"><img height="20" src="https://vjudge.net//static/bundle/8aeb2e93affef2d6e117.png"> CSES</a></li>
+        <li><a href="http://www.usaco.org/index.php"><img height="20" src="https://vjudge.net//static/bundle/00b630b2ef7c4027b5bb.png"> USACO</a></li>
+        <li><a href="https://oj.uz/"><img height="20" src="https://vjudge.net//static/bundle/75804f61731ecc629cc9.ico"> oj.uz</a></li>
+        <li><a href="https://judge.yosupo.jp/"><img height="20" src="https://vjudge.net//static/bundle/84e15ca8b95e0d77954b.ico"> Yosupo</a></li>
+        <li><a href="https://yukicoder.me/"><img height="20" src="https://vjudge.net//static/bundle/3d79e1d7488e2d01d0d9.png"> yukicoder</a></li>
+        <li><a href="https://oj.vnoi.info/"><img height="20" src="https://vjudge.net//static/bundle/a507b35397cb4dd43cc7.png"> VNOJ</a></li>
+        <li><a href="https://tlx.toki.id/"><img height="20" src="https://vjudge.net//static/bundle/eb0b5a7d27b56279ee6a.ico"> TLX</a></li>
+        <li><a href="https://new.bzoj.org:88/"><img height="20" src="https://vjudge.net//static/bundle/b0ef9eadb2afb8a94b73.png"> BZOJ</a> -> <a href="https://hydro.ac/">hydro.ac</a></li>
+        <li><a href="https://kilonova.ro/"><img height="20" src="https://vjudge.net//static/bundle/eb1d4bcd9c3b34d428cd.png"> Kilonova</a></li>
+        <li><a href="https://szkopul.edu.pl/"><img height="20" src="https://vjudge.net//static/bundle/39331bcf42a65abbca8a.ico"> Szkopuł</a></li>
+        <li><a href="https://csacademy.com/"><img height="20" src="https://vjudge.net//static/bundle/676cdd3d3793718b3d2c.png"> CSAcademy</a></li>
+        <li><a href="https://ac.nowcoder.com/"><img height="20" src="https://vjudge.net//static/bundle/463a9d52370dc5b7ba15.jpg"> 牛客</a></li>
 </ul></details></details><details><summary>Tutorials with Arabic video explanations</summary>
 
 - [mostafa saad Sheet](https://codeforces.com/blog/entry/97858),
@@ -166,6 +171,7 @@
     - [ACDLadders](https://acodedaily.com/)
     - [CP-31](https://www.tle-eliminators.com/cp-sheet)
     - [AtCoder Problems](https://kenkoooo.com/atcoder)
+    - [USACO Guide](https://usaco.guide/problems)
 - Rating Predictors:
     - [Carrot](https://github.com/meooow25/carrot)
     - [CF-Predictor](https://codeforces.com/blog/entry/50411)
