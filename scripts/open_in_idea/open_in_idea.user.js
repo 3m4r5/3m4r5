@@ -1,15 +1,16 @@
 // ==UserScript==
-// @homepageURL  https://github.com/3m4r5/3m4r5/tree/main/scripts/open_in_idea
-// @updateURL    https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/open_in_idea/open_in_idea.user.js
-// @downloadURL  https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/open_in_idea/open_in_idea.user.js
-// @name        Open Current Page In Intellij Idea
+// @homepageURL https://github.com/3m4r5/3m4r5/tree/main/scripts/open_in_idea
+// @updateURL   https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/open_in_idea/open_in_idea.user.js
+// @downloadURL https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/open_in_idea/open_in_idea.user.js
+// @icon        https://raw.githubusercontent.com/JetBrains/logos/refs/heads/master/web/intellij-idea/intellij-idea.svg
+// @name        Open In Idea
+// @description Open Current jsp Page In Intellij Idea project
 // @namespace   Violentmonkey Scripts
 // @match       http://localhost*/*
 // @match       http://192.168.2.*/*
 // @grant       GM_registerMenuCommand
 // @version     1.0
 // @author      3m4r5
-// @description 7/2/2025, 11:46:59 AM
 // ==/UserScript==
 (function() {
   'use strict';
