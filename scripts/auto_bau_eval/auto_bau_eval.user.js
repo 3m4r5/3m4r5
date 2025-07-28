@@ -3,6 +3,7 @@
 // @homepageURL https://github.com/3m4r5/3m4r5/tree/main/scripts/auto_bau_eval
 // @updateURL   https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/auto_bau_eval/auto_bau_eval.user.js
 // @downloadURL https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/auto_bau_eval/auto_bau_eval.user.js
+// @icon        https://www.bau.edu.jo/bau_channel/media/thumb_177.png
 // @namespace   Violentmonkey Scripts
 // @match       *://*bau.edu.jo*/eval*
 // @grant       none
