@@ -1,4 +1,4 @@
-### install:
+### How to install:
 > [!NOTE]
 > Google Chrome stopped supporting Manifest V2 which is currently required by violentmonkey but you can [enable it](https://stackoverflow.com/a/79283306).
 1. add [a userscript manager](https://violentmonkey.github.io/) to your browser.
