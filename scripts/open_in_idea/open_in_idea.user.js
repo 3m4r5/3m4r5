@@ -16,5 +16,5 @@
   'use strict';
   const channel_id = '';
   const parts      = Array.from(document.querySelectorAll('form')).at(-1).getAttribute('action').slice(1).split('/');
-  GM_registerMenuCommand("Open in Idea", function (){window.open(`jetbrains://${channel_id == '' ? 'idea' : channel_id + '.tool'}/navigate/reference?project=${parts[0]}&path=web/${parts.slice(1).join('/').split('.')[0]}.jsp`);}, "g");
+  GM_registerMenuCommand("Open in Idea", function (){window.open(`jetbrains://${channel_id == '' ? 'idea' : channel_id + '.tool'}/navigate/reference?project=${parts[0].toUpperCase()}&path=web/${parts.slice(1).join('/').split('.')[0]}.jsp`);}, "g");
 })();
