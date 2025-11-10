@@ -2,7 +2,7 @@
 Downloades the flip book as a pdf file.
 ## how to install:
 1. add [a userscript manager](https://violentmonkey.github.io/) to your browser.
-1. open [this link](https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/open_in_idea/open_in_idea.user.js) and install the userscript.
+1. open [this link](https://raw.githubusercontent.com/3m4r5/3m4r5/main/scripts/flipBuilder_pdf/flipBuilder_pdf.user.js) and install the userscript.
 ### example usage:
 <details><summary>BAU Students Guide</summary><ul>
 <li><a href="https://www.bau.edu.jo/media/BAU/mobile/index.html">2020 - 2021</a></li>
