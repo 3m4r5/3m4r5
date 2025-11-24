@@ -2,6 +2,7 @@
 ## how to install:
 > [!IMPORTANT]
 > this script depends on [Jetbrains Toolbox App](https://www.jetbrains.com/toolbox-app/), it must be installed first.
+> it was tested on [Version 3.0.1](https://www.jetbrains.com/toolbox-app/download/other.html#:~:text=Third%2Dparty%20software-,Version%203.0,-3.0.1), other versions may not work.
 ### Bookmarklet method:
 Add the following url to your bookmarks:
 ```js
