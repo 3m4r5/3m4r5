@@ -9,6 +9,7 @@ Downloades the flip book as a pdf file.
 <li><a href="https://www.bau.edu.jo/media/dalel/mobile/index.html">2021 - 2022</a></li>
 <li><a href="https://www.bau.edu.jo/media/dalel2/mobile/index.html">2023 - 2024</a></li>
 <li><a href="https://www.bau.edu.jo/media/Publish2024-2025/mobile/index.html">2024 - 2025</a></li>
+<li><a href="https://www.bau.edu.jo/media/Publish2025-2026/mobile/index.html">2025 - 2026</a></li>
 </ul></details>
 <details><summary>Ajyal Computer Series</summary><ul>
 <li><a href="https://online.flipbuilder.com/darghadalajyal/drgx/">1</a></li>
