@@ -7,7 +7,7 @@
 ### Bookmarklet method:
 Add the following url to your bookmarks:
 ```js
-javascript:(function(){const channel_id='';const parts=document.querySelector('form[action*="ui"]').getAttribute('action').slice(1).split('/');window.open(`jetbrains://${channel_id==''?%27idea%27:channel_id+%27.tool%27}/navigate/reference?project=${parts[0].toUpperCase()}&path=web/${parts.slice(1).join('/').split('.')[0]}.jsp`);})();
+javascript:(function(){const channel_id='';const parts=document.querySelector('form[action*="ui"]').getAttribute('action').slice(1).split('/');window.open(`jetbrains://${channel_id==''?'idea':channel_id+'.tool'}/navigate/reference?project=${parts[0].toUpperCase()}&path=web/${parts.slice(1).join('/').split('.')[0]}.jsp`);})();
 ```
 ### Userscript method:
 1. add [a userscript manager](https://violentmonkey.github.io/) to your browser.
